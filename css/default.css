@@ -61,11 +61,19 @@
 }
 
 #wordriver-container {
-  display: none;
+  position: fixed;
+  top: 600px;
+  left: 600px;
+  width: 200px;
+  height: 200px;
 }
 
 #webpage-container {
-  display: none;
+  position: fixed;
+  top: 600px;
+  left: 200px;
+  width: 200px;
+  height: 200px;
 }
 
 #powered-by {

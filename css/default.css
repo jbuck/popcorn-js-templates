@@ -1,0 +1,73 @@
+#container {
+  position: relative;
+  margin: 0px auto;
+  width: 1000px;
+  height: 550px;
+  background: #EFD279;
+}
+
+#container div {
+  background: #95CBE9;
+  position: absolute;
+}
+
+#title-container {
+  top: 10px;
+  left: 10px;
+  width: 485px;
+  height: 60px;
+}
+
+#desc-container {
+  top: 10px;
+  right: 10px;
+  width: 485px;
+  height: 60px;
+}
+
+#video-container {
+  top: 80px;
+  left: 340px;
+  width: 320px;
+  height: 320px;
+}
+
+#image-container {
+  top: 80px;
+  left: 10px;
+  width: 320px;
+  height: 320px;
+}
+
+#googlemap-container {
+  top: 80px;
+  right: 10px;
+  width: 320px;
+  height: 320px;
+}
+
+#wikipedia-container {
+  bottom: 10px;
+  right: 10px;
+  width: 485px;
+  height: 130px;
+}
+
+#footnote-container {
+  bottom: 10px;
+  left: 10px;
+  width: 485px;
+  height: 130px;
+}
+
+#wordriver-container {
+  display: none;
+}
+
+#webpage-container {
+  display: none;
+}
+
+#powered-by {
+  
+}

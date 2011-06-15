@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Popcorn Template</title>
+  <style>
+    .displays {
+      width: 300px;
+      height: 300px;
+    }
+  </style>
+  
+  <script src="http://popcornjs.org/code/dist/popcorn-complete.js"></script>
+  
+  <!-- <script src="../../test/jquery.js"></script>
+  <script src="../../plugins/webpage/popcorn.webpage.js"></script>
+  <script src="../../plugins/footnote/popcorn.footnote.js"></script>
+  <script src="../../plugins/googlemap/popcorn.googlemap.js"></script> 
+  <script src="popcorn.parserJSON.js"></script>-->
+  
+  <script>
+    document.addEventListener( "DOMContentLoaded", function() {
+      alert("here");
+      Popcorn( Popcorn.youtube( 'video', 'http://www.youtube.com/watch?v=kXXzvGJCVAc', { width: 400 } ) );
+      alert('here2');
+    }, false );
+  </script>
+
+</head>
+<body>
+  <h1>Popcorn Template</h1>
+
+  <div id='video'></div>
+  
+
+  <div class="displays" id="iframe-container"></div>
+  <div class="displays" id="map-container"></div>
+  <div class="displays" id="footnote-container"></div>
+
+</body>
+</html>

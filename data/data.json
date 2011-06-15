@@ -67,7 +67,8 @@
                 "text": "All nations are affected by over-fishing",
                 "target": "wordriver-container",
                 "word": {},
-                "id": "wordriver1308168094947"
+                "id": "wordriver1308168094947",
+                "color": "white"
             }
         }, {
             "webpage": {

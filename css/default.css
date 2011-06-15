@@ -1,7 +1,11 @@
+html{height:100%;}
+
 body {
   height: 100%;
+  background-color: #072B8A;
   background-image: -moz-linear-gradient(#17B0E7, #072B8A);
   background-image: -webkit-linear-gradient(#17B0E7, #072B8A);
+  background-repeat: no-repeat;
   color: #FFFFFF;
 }
 
@@ -39,6 +43,8 @@ body {
   width: 460px;
   height: 350px;
   padding: 0px;
+  box-shadow: 0 0 10px #000000;
+  background: #000000;
 }
 
 #image-container {

@@ -3,11 +3,11 @@
   margin: 0px auto;
   width: 1000px;
   height: 550px;
-  /*background: #EFD279;*/
+  background: #EFD279;
 }
 
 #container div {
-  /*background: #95CBE9;*/
+  background: #95CBE9;
   position: absolute;
 }
 
@@ -16,6 +16,7 @@
   left: 10px;
   width: 485px;
   height: 60px;
+  font-size: 3.5em;
 }
 
 #desc-container {
@@ -27,53 +28,48 @@
 
 #video-container {
   top: 80px;
-  left: 340px;
-  width: 320px;
-  height: 320px;
+  left: 270px;
+  width: 460px;
+  height: 350px;
 }
 
 #image-container {
   top: 80px;
   left: 10px;
-  width: 320px;
-  height: 320px;
+  width: 250px;
+  height: 250px;
 }
 
 #googlemap-container {
   top: 80px;
   right: 10px;
-  width: 320px;
-  height: 320px;
+  width: 250px;
+  height: 250px;
 }
 
 #wikipedia-container {
   bottom: 10px;
   right: 10px;
-  width: 485px;
-  height: 130px;
+  width: 250px;
+  height: 200px;
 }
 
 #footnote-container {
   bottom: 10px;
-  left: 10px;
-  width: 485px;
-  height: 130px;
+  left: 270px;
+  width: 460px;
+  height: 100px;
 }
 
 #wordriver-container {
-  position: fixed;
-  top: 600px;
-  left: 600px;
-  width: 200px;
+  bottom: 10px;
+  left: 10px;
+  width: 250px;
   height: 200px;
 }
 
 #webpage-container {
-  position: fixed;
-  top: 600px;
-  left: 200px;
-  width: 200px;
-  height: 200px;
+  display: none;
 }
 
 #powered-by {

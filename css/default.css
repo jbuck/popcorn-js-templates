@@ -3,11 +3,11 @@
   margin: 0px auto;
   width: 1000px;
   height: 550px;
-  background: #EFD279;
+  /*background: #EFD279;*/
 }
 
 #container div {
-  background: #95CBE9;
+  /*background: #95CBE9;*/
   position: absolute;
 }
 

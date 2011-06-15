@@ -2,7 +2,7 @@
   position: relative;
   margin: 0px auto;
   width: 1000px;
-  height: 550px;
+  height: 500px;
   background: #EFD279;
 }
 
@@ -51,21 +51,21 @@
   bottom: 10px;
   right: 10px;
   width: 250px;
-  height: 200px;
+  height: 150px;
 }
 
 #footnote-container {
   bottom: 10px;
   left: 270px;
   width: 460px;
-  height: 100px;
+  height: 50px;
 }
 
 #wordriver-container {
   bottom: 10px;
   left: 10px;
   width: 250px;
-  height: 200px;
+  height: 150px;
 }
 
 #webpage-container {

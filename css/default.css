@@ -68,6 +68,12 @@ body {
   height: 130px;
 }
 
+#wikipedia-container > a {
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
 #footnote-container {
   bottom: 10px;
   left: 270px;

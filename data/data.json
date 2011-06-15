@@ -1,0 +1,82 @@
+{
+    "title": "MyButterProject",
+    "description": "",
+    "remote": "http://videos-cdn.mozilla.net/serv/webmademovies/Moz_Doc_0329_GetInvolved_ST.webm",
+    "data": {
+        "data": [{
+            "googlemap": {
+                "end": 4,
+                "type": "ROADMAP",
+                "zoom": 8,
+                "lat": 43.7708708,
+                "lng": -79.4992517,
+                "location": "70 the pond road, toronto, ontario",
+                "target": "googlemap-container",
+                "id": "googlemap1308167684091"
+            }
+        }, {
+            "image": {
+                "start": 5.75,
+                "end": 9.75,
+                "src": "https://www.drumbeat.org/media//images/drumbeat-logo-splash.png",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308168076519"
+            }
+        }, {
+            "wikipedia": {
+                "start": 10.5,
+                "end": 14.5,
+                "lang": "en",
+                "src": "http://en.wikipedia.org/wiki/Harry_Potter",
+                "numberofwords": 200,
+                "target": "wikipedia-container",
+                "id": "wikipedia1308168079083"
+            }
+        }, {
+            "footnote": {
+                "start": 10.5,
+                "end": 14.5,
+                "text": "My footnote text",
+                "target": "footnote-container",
+                "id": "footnote1308168081422"
+            }
+        }, {
+            "subtitle": {
+                "start": 16.25,
+                "end": 21.25,
+                "text": "My subtitle",
+                "target": "subtitle-container",
+                "container": {},
+                "id": "subtitle1308168085949"
+            }
+        }, {
+            "wordriver": {
+                "start": 16.25,
+                "end": 27,
+                "text": "My wordriver text",
+                "target": "wordriver-container",
+                "word": {},
+                "id": "wordriver1308168094947"
+            }
+        }, {
+            "webpage": {
+                "start": 21.75,
+                "end": 26.25,
+                "src": "http://en.wikipedia.org/wiki/Harry_Potter",
+                "target": "webpage-container",
+                "id": "webpage1308168090055"
+            }
+        }]
+    },
+    "targets": {},
+    "tracks": {
+        "trackLiner0": ["footnote1308168081422"],
+        "trackLiner1": ["googlemap1308167684091"],
+        "trackLiner2": ["subtitle1308168085949"],
+        "trackLiner3": ["wikipedia1308168079083", "webpage1308168090055"],
+        "trackLiner4": [],
+        "trackLiner5": ["image1308168076519"],
+        "trackLiner6": ["wordriver1308168094947"]
+    }
+}

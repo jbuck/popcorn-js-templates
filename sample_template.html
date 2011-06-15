@@ -6,18 +6,29 @@
   
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/default.css">
+  
+  <script src="http://popcornjs.org/code/dist/popcorn-complete.js"></script>
+  <script src="popcorn.parserJSON.js"></script>
+  <script>
+      document.addEventListener( "DOMContentLoaded", function() {
+      
+      var p = Popcorn( Popcorn.youtube( 'video-container', 'http://www.youtube.com/watch?v=kXXzvGJCVAc', { width: 320 } ) );
+      p.parseJSON("data/data.json");
+      
+      }, false );
+  </script>
 </head>
 <body>
   <div id="container">
     <div id="title-container">title</div>
     <div id="desc-container">description</div>
-    <div id="video-container">video</div>
-    <div id="image-container">image</div>
-    <div id="googlemap-container">google maps</div>
-    <div id="wikipedia-container">wikipedia</div>
-    <div id="footnote-container">footnote</div>
-    <div id="wordriver-container">word river</div>
-    <div id="webpage-container">web page</div>
+    <div id="video-container"></div>
+    <div id="image-container"></div>
+    <div id="googlemap-container"></div>
+    <div id="wikipedia-container"></div>
+    <div id="footnote-container"></div>
+    <div id="wordriver-container"></div>
+    <div id="webpage-container"></div>
     
     <div id="powered-by"></div>
   </div>

@@ -33,7 +33,17 @@
                 "link": {},
                 "id": "image1308168076520"
             }
-        }, {
+        }, 
+         {
+            "image": {
+                "start": 42,
+                "end": 52,
+                "src": "../images/plankton.jpg",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308168076521"
+            }
+        },{
             "wikipedia": {
                 "start": 17,
                 "end": 24,
@@ -43,22 +53,33 @@
                 "target": "wikipedia-container",
                 "id": "wikipedia1308168079083"
             }
-        }, {
+        },
+        {
             "footnote": {
-                "start": 210,
-                "end": 218,
-                "text": "Monitoring the diversity of the life in the oceans better allows us to recognize and anticipate problems",
+                "start": 6,
+                "end": 9,
+                "text": "Oceans are a fundamental part of our ecosystem",
                 "target": "footnote-container",
                 "id": "footnote1308168081422"
             }
         }, {
             "subtitle": {
-                "start": 16.25,
-                "end": 21.25,
-                "text": "My subtitle",
+                "start": 3,
+                "end": 4,
+                "text": "Earth",
                 "target": "subtitle-container",
                 "container": {},
                 "id": "subtitle1308168085949"
+            }
+        }, 
+        {
+            "subtitle": {
+                "start": 4,
+                "end": 5,
+                "text": "is a water planet",
+                "target": "subtitle-container",
+                "container": {},
+                "id": "subtitle1308168085950"
             }
         }, {
             "wordriver": {

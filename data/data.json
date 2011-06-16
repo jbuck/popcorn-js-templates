@@ -19,7 +19,7 @@
             "image": {
                 "start": 10,
                 "end": 14,
-                "src": "../images/greatwhiteshark.jpg",
+                "src": "images/greatwhiteshark.jpg",
                 "target": "image-container",
                 "link": {},
                 "id": "image1308168076519"
@@ -28,7 +28,7 @@
             "image": {
                 "start": 17,
                 "end": 24,
-                "src": "../images/ocean-temperature.jpg",
+                "src": "images/ocean-temperature.jpg",
                 "target": "image-container",
                 "link": {},
                 "id": "image1308168076520"
@@ -38,7 +38,7 @@
             "image": {
                 "start": 42,
                 "end": 52,
-                "src": "../images/plankton.jpg",
+                "src": "images/plankton.jpg",
                 "target": "image-container",
                 "link": {},
                 "id": "image1308168076521"

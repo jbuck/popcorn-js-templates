@@ -1,114 +1,59 @@
 {
-    "title": "Ocean Observations Biodiversity Video",
-    "description": "A presentation describing the need to monitor biodiversity in the oceans",
-    "remote": "http://videos-cdn.mozilla.net/serv/webmademovies/Moz_Doc_0329_GetInvolved_ST.webm",
+    "title": "Aboriginals1",
+    "description": "",
+    "remote": "http://www.youtube.com/watch?v=sMTwxxT3j2k",
     "data": {
         "data": [{
+            "webpage": {
+                "start": 13,
+                "end": 16,
+                "src": "http://www.imdb.com/name/nm1583205/",
+                "target": "webpage-container",
+                "id": "webpage1308319535034"
+            }
+        }, {
             "googlemap": {
-                "start": 34,
-                "end": 54,
+                "start": 14,
+                "end": 18,
                 "type": "ROADMAP",
-                "zoom": 1,
-                "lat": 43.7708708,
-                "lng": -79.4992517,
-                "location": "Atlantic Ocean",
+                "zoom": 8,
+                "lat": "49 54' N",
+                "lng": "97 08' W",
                 "target": "googlemap-container",
-                "id": "googlemap1308167684091"
+                "id": "googlemap1308319667409"
             }
         }, {
-            "image": {
-                "start": 10,
-                "end": 14,
-                "src": "../images/greatwhiteshark.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076519"
-            }
-        }, {
-            "image": {
-                "start": 17,
-                "end": 24,
-                "src": "../images/ocean-temperature.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076520"
-            }
-        }, 
-         {
-            "image": {
-                "start": 42,
-                "end": 52,
-                "src": "../images/plankton.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076521"
-            }
-        },{
             "wikipedia": {
-                "start": 17,
-                "end": 24,
+                "start": 85,
+                "end": 90,
                 "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Biodiversity",
+                "src": "http://en.wikipedia.org/wiki/John_Diefenbaker",
                 "numberofwords": 200,
                 "target": "wikipedia-container",
-                "id": "wikipedia1308168079083"
-            }
-        },
-        {
-            "footnote": {
-                "start": 6,
-                "end": 9,
-                "text": "Oceans are a fundamental part of our ecosystem",
-                "target": "footnote-container",
-                "id": "footnote1308168081422"
-            }
-        }, {
-            "subtitle": {
-                "start": 3,
-                "end": 4,
-                "text": "Earth",
-                "target": "subtitle-container",
-                "container": {},
-                "id": "subtitle1308168085949"
-            }
-        }, 
-        {
-            "subtitle": {
-                "start": 4,
-                "end": 5,
-                "text": "is a water planet",
-                "target": "subtitle-container",
-                "container": {},
-                "id": "subtitle1308168085950"
-            }
-        }, {
-            "wordriver": {
-                "start": 24,
-                "end": 28,
-                "text": "All nations are affected by over-fishing",
-                "target": "wordriver-container",
-                "word": {},
-                "id": "wordriver1308168094947",
-                "color": "white"
+                "id": "wikipedia1308319731612"
             }
         }, {
             "webpage": {
-                "start": 21.75,
-                "end": 26.25,
-                "src": "http://en.wikipedia.org/wiki/Harry_Potter",
+                "start": 85,
+                "end": 90,
+                "src": "http://www.uwinnipeg.ca/index/research-2006-b-rice",
                 "target": "webpage-container",
-                "id": "webpage1308168090055"
+                "id": "webpage1308319790737"
+            }
+        }, {
+            "footnote": {
+                "start": 85,
+                "end": 90,
+                "text": "Status Indians are registered Indians who uphold rights and benefits that are not granted to unregistered Indians. Some of these benefits include; the granting of reserves, a lengthened hunting season and rights associated with them.",
+                "target": "footnote-container",
+                "id": "footnote1308320002528"
             }
         }]
     },
     "targets": {},
     "tracks": {
-        "trackLiner0": ["footnote1308168081422"],
-        "trackLiner1": ["googlemap1308167684091"],
-        "trackLiner2": ["subtitle1308168085949"],
-        "trackLiner3": ["wikipedia1308168079083", "webpage1308168090055"],
-        "trackLiner4": [],
-        "trackLiner5": ["image1308168076519"],
-        "trackLiner6": ["wordriver1308168094947"]
+        "trackLiner0": ["webpage1308319535034", "wikipedia1308319731612"],
+        "trackLiner1": ["googlemap1308319667409", "webpage1308319790737"],
+        "trackLiner2": ["footnote1308320002528"]
     }
 }

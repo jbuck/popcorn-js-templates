@@ -1,114 +1,131 @@
 {
-    "title": "Ocean Observations Biodiversity Video",
-    "description": "A presentation describing the need to monitor biodiversity in the oceans",
-    "remote": "http://videos-cdn.mozilla.net/serv/webmademovies/Moz_Doc_0329_GetInvolved_ST.webm",
-    "data": {
-        "data": [{
-            "googlemap": {
-                "start": 34,
-                "end": 54,
-                "type": "ROADMAP",
-                "zoom": 1,
-                "lat": 43.7708708,
-                "lng": -79.4992517,
-                "location": "Atlantic Ocean",
-                "target": "googlemap-container",
-                "id": "googlemap1308167684091"
-            }
-        }, {
-            "image": {
-                "start": 10,
-                "end": 14,
-                "src": "images/greatwhiteshark.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076519"
-            }
-        }, {
-            "image": {
-                "start": 17,
-                "end": 24,
-                "src": "images/ocean-temperature.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076520"
-            }
-        }, 
-         {
-            "image": {
-                "start": 42,
-                "end": 52,
-                "src": "images/plankton.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076521"
-            }
-        },{
-            "wikipedia": {
-                "start": 17,
-                "end": 24,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Biodiversity",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308168079083"
-            }
-        },
-        {
-            "footnote": {
-                "start": 6,
-                "end": 9,
-                "text": "Oceans are a fundamental part of our ecosystem",
-                "target": "footnote-container",
-                "id": "footnote1308168081422"
-            }
-        }, {
-            "subtitle": {
-                "start": 3,
-                "end": 4,
-                "text": "Earth",
-                "target": "subtitle-container",
-                "container": {},
-                "id": "subtitle1308168085949"
-            }
-        }, 
-        {
-            "subtitle": {
-                "start": 4,
-                "end": 5,
-                "text": "is a water planet",
-                "target": "subtitle-container",
-                "container": {},
-                "id": "subtitle1308168085950"
-            }
-        }, {
-            "wordriver": {
-                "start": 24,
-                "end": 28,
-                "text": "All nations are affected by over-fishing",
-                "target": "wordriver-container",
-                "word": {},
-                "id": "wordriver1308168094947",
-                "color": "white"
-            }
-        }, {
-            "webpage": {
-                "start": 21.75,
-                "end": 26.25,
-                "src": "http://en.wikipedia.org/wiki/Harry_Potter",
-                "target": "webpage-container",
-                "id": "webpage1308168090055"
-            }
-        }]
-    },
-    "targets": {},
-    "tracks": {
-        "trackLiner0": ["footnote1308168081422"],
-        "trackLiner1": ["googlemap1308167684091"],
-        "trackLiner2": ["subtitle1308168085949"],
-        "trackLiner3": ["wikipedia1308168079083", "webpage1308168090055"],
-        "trackLiner4": [],
-        "trackLiner5": ["image1308168076519"],
-        "trackLiner6": ["wordriver1308168094947"]
-    }
+  "title": "Biodiversity 1",
+  "description": "",
+  "remote": "http://www.youtube.com/watch?v=kXXzvGJCVAc",
+  "data": {
+    "data": [{
+      "image": {
+        "end": 5,
+        "href": "http://rst.gsfc.nasa.gov/Sect16/full-20earth2.jpg",
+        "src": "http://rst.gsfc.nasa.gov/Sect16/full-20earth2.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308319667386"
+      }
+    }, {
+      "wikipedia": {
+        "start": 0.25,
+        "end": 5.25,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Earth",
+        "title": "Earth",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308319648164"
+      }
+    }, {
+      "wikipedia": {
+        "start": 6,
+        "end": 13,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Ocean",
+        "title": "Oceans",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308319681799"
+      }
+    }, {
+      "wikipedia": {
+        "start": 14,
+        "end": 22,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Mozilla",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308319688094"
+      }
+    }, {
+      "image": {
+        "start": 23,
+        "end": 27,
+        "href": "http://www.celestiamotherlode.net/catalog/images/screenshots/earth/earth_mark1__jestr.jpg",
+        "src": "http://www.celestiamotherlode.net/catalog/images/screenshots/earth/earth_mark1__jestr.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308319694429"
+      }
+    }, {
+      "image": {
+        "start": 33,
+        "end": 37.25,
+        "href": "http://www.buy-rash-guards.com/rashguards-blog/images/jellyfish.jpg",
+        "src": "http://www.buy-rash-guards.com/rashguards-blog/images/jellyfish.jpg",
+        "text": "Jellyfish affected by climate change",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308319874488"
+      }
+    }, {
+      "wordriver": {
+        "type": "wordriver",
+        "start": 33.25,
+        "end": 37.25,
+        "text": "Chill",
+        "color": "blue",
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1308319505084"
+      }
+    }, {
+      "wordriver": {
+        "type": "wordriver",
+        "start": 33.5,
+        "end": 37.5,
+        "text": "Heat",
+        "color": "red",
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1308319505108"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 37,
+        "end": 40,
+        "src": "http://www.mos.org/oceans/life/surface.html",
+        "target": "webpage-container",
+        "id": "webpage1308319505150"
+      }
+    }, {
+      "wikipedia": {
+        "start": 41,
+        "end": 50,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Effects_of_climate_change_on_marine_mammals",
+        "title": "Affects of Climate Change",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308319712967"
+      }
+    }, {
+      "wikipedia": {
+        "start": 51,
+        "end": 59,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Marine_biology",
+        "title": "Marine Biology",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308319721691"
+      }
+    }]
+  },
+  "targets": {},
+  "tracks": {
+    "trackLiner0": ["wikipedia1308319648164", "wikipedia1308319681799", "wikipedia1308319688094", "wikipedia1308319712967", "wikipedia1308319721691", "image1308319874488"],
+    "trackLiner1": ["image1308319667386", "image1308319694429"],
+    "trackLiner2": ["webpage1308319505150"],
+    "trackLiner3": ["wordriver1308319505108"],
+    "trackLiner4": ["wordriver1308319505084"]
+  }
 }

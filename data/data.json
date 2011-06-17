@@ -34,7 +34,7 @@
             "image": {
                 "start": 30,
                 "end": 37,
-                "href": "http://images.google.com/imgres?imgurl=http://www.sustainabilityninja.com/wp-content/uploads/2010/01/arctic_ocean.jpg&imgrefurl=http://www.sustainabilityninja.com/eco-news/the-arctic-ocean-is-awakening-82028/&usg=__csCbI4EQfjgYO8V_svSBaOZ88IM=&h=480&w=640&sz=89&hl=en&start=0&zoom=1&tbnid=2rkFpGjnXk7otM:&tbnh=151&tbnw=196&ei=51PyTb2tCobUgAfpqLSUDQ&prev=/search%3Fq%3Dmelting%2Barctic%26hl%3Den%26biw%3D1024%26bih%3D497%26gbv%3D2%26tbm%3Disch&itbs=1&iact=hc&vpx=137&vpy=196&dur=1036&hovh=194&hovw=259&tx=92&ty=122&page=1&ndsp=8&ved=1t:429,r:4,s:0&biw=1024&bih=497",
+                "href": "http://www.sustainabilityninja.com/wp-content/uploads/2010/01/arctic_ocean.jpg",
                 "src": "http://www.sustainabilityninja.com/wp-content/uploads/2010/01/arctic_ocean.jpg",
                 "target": "image-container",
                 "link": {},
@@ -51,15 +51,6 @@
                 "accessibility": {},
                 "display": "inline",
                 "id": "subtitle1308318183951"
-            }
-        }, {
-            "image": {
-                "type": "image",
-                "start": 35.5,
-                "end": 39.5,
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318183976"
             }
         }, {
             "footnote": {
@@ -129,7 +120,7 @@
                 "type": "image",
                 "start": 88,
                 "end": 95,
-                "href": "http://www.google.ca/imgres?imgurl=http://www.gearthblog.com/images/images1107/seaice.jpg&imgrefurl=http://www.gearthblog.com/blog/archives/2008/09/more_detailed_arctic_ice_melting_an.html&usg=__jjNYw8HlkHQPviLVJ2mxSYCmeBs=&h=374&w=600&sz=57&hl=en&start=0&zoom=1&tbnid=FV05J7ji5JBxCM:&tbnh=89&tbnw=142&ei=8uz4Ta-ZLs7ogAf5ga3xCw&prev=/search%3Fq%3Damount%2Bof%2Bice%2Bmelted%2Bin%2Barctic%255C%26um%3D1%26hl%3Den%26biw%3D1024%26bih%3D497%26tbm%3Disch&um=1&itbs=1&iact=hc&vpx=699&vpy=201&dur=3284&hovh=177&hovw=284&tx=235&ty=118&page=1&ndsp=17&ved=1t:429,r:10,s:0&biw=1024&bih=497",
+                "href": "http://www.gearthblog.com/images/images1107/seaice.jpg",
                 "src": "http://www.gearthblog.com/images/images1107/seaice.jpg",
                 "target": "image-container",
                 "link": {},
@@ -149,7 +140,7 @@
                 "type": "image",
                 "start": 100,
                 "end": 106,
-                "href": "http://www.google.ca/imgres?imgurl=http://www.kalyansuman.com/uploaded_images/arctic_img1-702260.jpg&imgrefurl=http://kalyansuman.com/2007/07/arctic-tale-movie-free-screening.html&usg=__7wBMGqq83m70YLElzwJnZLobcKE=&h=378&w=310&sz=25&hl=en&start=0&zoom=1&tbnid=NE7ExRrBRJmv0M:&tbnh=151&tbnw=120&ei=pEL6TbC8NYGCgAeU8Jz1CQ&prev=/search%3Fq%3Darctic%26um%3D1%26hl%3Den%26biw%3D1024%26bih%3D497%26tbm%3Disch&um=1&itbs=1&iact=hc&vpx=630&vpy=150&dur=325&hovh=151&hovw=120&tx=125&ty=237&page=1&ndsp=10&ved=1t:429,r:8,s:0&biw=1024&bih=497",
+                "href": "http://www.kalyansuman.com/uploaded_images/arctic_img1-702260.jpg",
                 "src": "http://www.kalyansuman.com/uploaded_images/arctic_img1-702260.jpg",
                 "target": "image-container",
                 "link": {},
@@ -169,7 +160,7 @@
                 "type": "image",
                 "start": 116,
                 "end": 120,
-                "href": "http://www.google.ca/imgres?imgurl=http://pen.eiu.edu/~hrodriguez3/polarbear.jpg&imgrefurl=http://pen.eiu.edu/~hrodriguez3/curriculum.html&usg=__yHh93yle0m6s1wtFiI2tMdbW5lw=&h=598&w=800&sz=116&hl=en&start=0&zoom=1&tbnid=ZrMBiotxiytmYM:&tbnh=142&tbnw=216&ei=JLD2Tb2gDML00gGomP3wDA&prev=/search%3Fq%3Dpolar%2Bbears%2Bglobal%2Bwarming%26hl%3Den%26safe%3Doff%26biw%3D1657%26bih%3D772%26gbv%3D2%26tbm%3Disch&itbs=1&iact=rc&dur=219&page=1&ndsp=33&ved=1t:429,r:0,s:0&tx=151&ty=117",
+                "href": "http://pen.eiu.edu/~hrodriguez3/polarbear.jpg",
                 "src": "http://pen.eiu.edu/~hrodriguez3/polarbear.jpg",
                 "target": "image-container",
                 "link": {},
@@ -209,7 +200,7 @@
                 "type": "image",
                 "start": 137,
                 "end": 145,
-                "href": "http://www.google.ca/imgres?imgurl=http://www.thoughtleader.co.za/wp-content/uploads/2008/02/polarbear-population.jpg&imgrefurl=http://www.thoughtleader.co.za/thespike/2008/02/06/the-polar-bear-plot/&h=306&w=309&sz=22&tbnid=aI3p93RKs0VHdM:&tbnh=116&tbnw=117&prev=/search%3Fq%3Dpolar%2Bbear%2Bpopulation%2Bchart%26tbm%3Disch%26tbo%3Du&zoom=1&q=polar+bear+population+chart&hl=en&usg=__-aJppy-SFQseZVAEIOGHWQgZHLM=&sa=X&ei=SLP2TYD8FoHo0QGdjp2KCw&ved=0CC4Q9QEwAA",
+                "href": "http://www.thoughtleader.co.za/wp-content/uploads/2008/02/polarbear-population.jpg",
                 "src": "http://www.thoughtleader.co.za/wp-content/uploads/2008/02/polarbear-population.jpg",
                 "target": "image-container",
                 "link": {},

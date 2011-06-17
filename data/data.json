@@ -1,114 +1,200 @@
 {
-    "title": "Ocean Observations Biodiversity Video",
-    "description": "A presentation describing the need to monitor biodiversity in the oceans",
-    "remote": "http://videos-cdn.mozilla.net/serv/webmademovies/Moz_Doc_0329_GetInvolved_ST.webm",
+    "title": "Elecricity + Butter = AWESOME",
+    "description": "It's AWESOME!",
+    "remote": "http://www.youtube.com/watch?v=kjpp2MQffnw",
     "data": {
         "data": [{
-            "googlemap": {
-                "start": 34,
-                "end": 54,
-                "type": "ROADMAP",
-                "zoom": 1,
-                "lat": 43.7708708,
-                "lng": -79.4992517,
-                "location": "Atlantic Ocean",
-                "target": "googlemap-container",
-                "id": "googlemap1308167684091"
-            }
-        }, {
             "image": {
-                "start": 10,
-                "end": 14,
-                "src": "../images/greatwhiteshark.jpg",
+                "end": 10,
+                "href": "http://www.google.com/imgres?imgurl=http://www.calenergy.com/include/images/logo.gif&imgrefurl=http://www.calenergy.com/&usg=__v0AHviZeMuU2EFRh-_8QL3SQwpw=&h=42&w=233&sz=2&hl=en&start=0&zoom=1&tbnid=vLzuaCsjUUspvM:&tbnh=25&tbnw=136&ei=mwL5TazmC4LPgAf_p-Dt",
+                "src": "http://www.google.com/imgres?imgurl=http://www.calenergy.com/include/images/logo.gif&imgrefurl=http://www.calenergy.com/&usg=__v0AHviZeMuU2EFRh-_8QL3SQwpw=&h=42&w=233&sz=2&hl=en&start=0&zoom=1&tbnid=vLzuaCsjUUspvM:&tbnh=25&tbnw=136&ei=mwL5TazmC4LPgAf_p-Dt",
                 "target": "image-container",
                 "link": {},
-                "id": "image1308168076519"
-            }
-        }, {
-            "image": {
-                "start": 17,
-                "end": 24,
-                "src": "../images/ocean-temperature.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076520"
-            }
-        }, 
-         {
-            "image": {
-                "start": 42,
-                "end": 52,
-                "src": "../images/plankton.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076521"
-            }
-        },{
-            "wikipedia": {
-                "start": 17,
-                "end": 24,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Biodiversity",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308168079083"
-            }
-        },
-        {
-            "footnote": {
-                "start": 6,
-                "end": 9,
-                "text": "Oceans are a fundamental part of our ecosystem",
-                "target": "footnote-container",
-                "id": "footnote1308168081422"
-            }
-        }, {
-            "subtitle": {
-                "start": 3,
-                "end": 4,
-                "text": "Earth",
-                "target": "subtitle-container",
-                "container": {},
-                "id": "subtitle1308168085949"
-            }
-        }, 
-        {
-            "subtitle": {
-                "start": 4,
-                "end": 5,
-                "text": "is a water planet",
-                "target": "subtitle-container",
-                "container": {},
-                "id": "subtitle1308168085950"
-            }
-        }, {
-            "wordriver": {
-                "start": 24,
-                "end": 28,
-                "text": "All nations are affected by over-fishing",
-                "target": "wordriver-container",
-                "word": {},
-                "id": "wordriver1308168094947",
-                "color": "white"
+                "id": "image1308319003406"
             }
         }, {
             "webpage": {
-                "start": 21.75,
-                "end": 26.25,
-                "src": "http://en.wikipedia.org/wiki/Harry_Potter",
+                "end": 6,
+                "src": "http://www.calenergy.com/",
                 "target": "webpage-container",
-                "id": "webpage1308168090055"
+                "id": "webpage1308319008203"
+            }
+        }, {
+            "webpage": {
+                "type": "webpage",
+                "start": 6,
+                "end": 10,
+                "src": "http://www.darvill.clara.net/altenerg/fossil.htm",
+                "target": "webpage-container",
+                "id": "webpage1308318994192"
+            }
+        }, {
+            "footnote": {
+                "type": "footnote",
+                "start": 6,
+                "end": 10,
+                "text": "Coal, oil and gas are called \"fossil fuels\" because they have been formed from the organic remains of prehistoric plants and animals.",
+                "target": "footnote-container",
+                "id": "footnote1308318994230"
+            }
+        }, {
+            "webpage": {
+                "type": "webpage",
+                "start": 20,
+                "end": 33,
+                "src": "http://www.universetoday.com/27908/what-is-the-difference-between-lava-and-magma/",
+                "target": "webpage-container",
+                "id": "webpage1308318994259"
+            }
+        }, {
+            "image": {
+                "type": "image",
+                "start": 34,
+                "end": 40,
+                "href": "http://www.google.com/imgres?imgurl=http://geothermal.marin.org/geopresentation/images/img012.jpg&imgrefurl=http://geothermal.marin.org/geopresentation/sld012.htm&usg=__JhZQPZzGYNWgUZCgt0ev-dgcDX0=&h=383&w=575&sz=66&hl=en&start=0&zoom=1&tbnid=_YQVfHoYnEIP",
+                "src": "http://geothermal.marin.org/geopresentation/images/img012.jpg",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308318994286"
+            }
+        }, {
+            "wikipedia": {
+                "type": "wikipedia",
+                "start": 40,
+                "end": 46,
+                "lang": "en",
+                "src": "http://en.wikipedia.org/wiki/Superheated_water",
+                "title": "Superheated_water",
+                "numberofwords": 200,
+                "target": "wikipedia-container",
+                "id": "wikipedia1308318994330"
+            }
+        }, {
+            "image": {
+                "type": "image",
+                "start": 48,
+                "end": 54,
+                "href": "http://www.google.ca/imgres?imgurl=http://astrobio.net/albums/album03/abl.jpg&imgrefurl=http://www.astrobio.net/pressrelease/2241/water-world&usg=__1MiufOb2rbajaUBqz0t7rBatwY8=&h=280&w=294&sz=27&hl=en&start=4&zoom=1&itbs=1&tbnid=IeJPYI5qxCMlyM:&tbnh=110&tbnw=115&prev=/search%3Fq%3Dinside%2Bthe%2Bearth%26hl%3Den%26rls%3Dcom.microsoft:en-us:IE-SearchBox%26rlz%3D1I7GGLL_en%26biw%3D1003%26bih%3D588%26tbm%3Disch&ei=vcf3TYP-G42cgQfswb38Cw",
+                "src": "http://www.google.ca/imgres?imgurl=http://astrobio.net/albums/album03/abl.jpg&imgrefurl=http://www.astrobio.net/pressrelease/2241/water-world&usg=__1MiufOb2rbajaUBqz0t7rBatwY8=&h=280&w=294&sz=27&hl=en&start=4&zoom=1&itbs=1&tbnid=IeJPYI5qxCMlyM:&tbnh=110&tbnw=115&prev=/search%3Fq%3Dinside%2Bthe%2Bearth%26hl%3Den%26rls%3Dcom.microsoft:en-us:IE-SearchBox%26rlz%3D1I7GGLL_en%26biw%3D1003%26bih%3D588%26tbm%3Disch&ei=vcf3TYP-G42cgQfswb38Cw",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308318994355"
+            }
+        }, {
+            "wikipedia": {
+                "type": "wikipedia",
+                "start": 54,
+                "end": 61,
+                "lang": "en",
+                "src": "http://en.wikipedia.org/wiki/Injection_well",
+                "title": "Injection Well",
+                "numberofwords": 200,
+                "target": "wikipedia-container",
+                "id": "wikipedia1308318994388"
+            }
+        }, {
+            "wordriver": {
+                "type": "wordriver",
+                "start": 54,
+                "end": 61,
+                "text": "An injection well is a vertical pipe in the ground into which fluids are pumped through.",
+                "color": "magenta",
+                "target": "wordriver-container",
+                "word": {},
+                "id": "wordriver1308318994431"
+            }
+        }, {
+            "wikipedia": {
+                "type": "wikipedia",
+                "start": 75,
+                "end": 79,
+                "lang": "en",
+                "src": "http://en.wikipedia.org/wiki/Geothermal_electricity",
+                "title": "Geo - Electricity",
+                "numberofwords": 200,
+                "target": "wikipedia-container",
+                "id": "wikipedia1308318994456"
+            }
+        }, {
+            "wikipedia": {
+                "type": "wikipedia",
+                "start": 80,
+                "end": 85,
+                "lang": "en",
+                "src": "http://en.wikipedia.org/wiki/Steam",
+                "title": "Steam",
+                "numberofwords": 200,
+                "target": "wikipedia-container",
+                "id": "wikipedia1308318994484"
+            }
+        }, {
+            "image": {
+                "start": 89,
+                "end": 91,
+                "href": "http://www.geology.arkansas.gov/images/brine_productionpump.jpg",
+                "src": "http://www.geology.arkansas.gov/images/brine_productionpump.jpg",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308319249599"
+            }
+        }, {
+            "footnote": {
+                "start": 90,
+                "end": 93,
+                "text": "The tempurature of the fluid at this point is 182 degrees celcius",
+                "target": "footnote-container",
+                "id": "footnote1308319166456"
+            }
+        }, {
+            "image": {
+                "start": 91,
+                "end": 96,
+                "href": "http://www.jcmiras.net/jcm2/wp-content/uploads/2008/tongonan-topping-cycle-geothermal-plant.JPG",
+                "src": "http://www.jcmiras.net/jcm2/wp-content/uploads/2008/tongonan-topping-cycle-geothermal-plant.JPG",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308319433240"
+            }
+        }, {
+            "image": {
+                "start": 96,
+                "end": 101,
+                "href": "http://www.energy-green.net/blog/upload/geothermal-power.jpg",
+                "src": "http://www.energy-green.net/blog/upload/geothermal-power.jpg",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308319243108"
+            }
+        }, {
+            "wordriver": {
+                "type": "wordriver",
+                "start": 117,
+                "end": 120,
+                "text": "Seperator",
+                "color": "green",
+                "target": "wordriver-container",
+                "word": {},
+                "id": "wordriver1308318994634"
+            }
+        }, {
+            "image": {
+                "type": "image",
+                "start": 117,
+                "end": 120,
+                "text": "UNDONE GROUP",
+                "target": "image-container",
+                "link": {},
+                "id": "image1308318994661"
             }
         }]
     },
     "targets": {},
     "tracks": {
-        "trackLiner0": ["footnote1308168081422"],
-        "trackLiner1": ["googlemap1308167684091"],
-        "trackLiner2": ["subtitle1308168085949"],
-        "trackLiner3": ["wikipedia1308168079083", "webpage1308168090055"],
-        "trackLiner4": [],
-        "trackLiner5": ["image1308168076519"],
-        "trackLiner6": ["wordriver1308168094947"]
+        "trackLiner0": ["wikipedia1308318994456", "wikipedia1308318994484", "image1308318994661", "image1308319003406", "image1308319249599"],
+        "trackLiner1": ["webpage1308318994259", "wordriver1308318994431", "wordriver1308318994634", "webpage1308319008203", "footnote1308319166456"],
+        "trackLiner2": ["image1308318994286", "wikipedia1308318994388", "image1308319433240"],
+        "trackLiner3": ["footnote1308318994230", "wikipedia1308318994330", "image1308318994355", "image1308319243108"],
+        "trackLiner4": ["webpage1308318994192"],
+        "trackLiner5": []
     }
 }

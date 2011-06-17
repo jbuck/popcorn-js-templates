@@ -118,14 +118,154 @@
         "target": "wikipedia-container",
         "id": "wikipedia1308319721691"
       }
+    }, {
+      "wikipedia": {
+        "start": 60,
+        "end": 68,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Food_chain",
+        "title": "Food Chain",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308330413325"
+      }
+    }, {
+      "webpage": {
+        "id": "http://",
+        "start": 69,
+        "end": 81,
+        "src": " http://www.mtsociety.org",
+        "target": "webpage-container"
+      }
+    }, {
+      "footnote": {
+        "start": 82,
+        "end": 91,
+        "text": " Do you think tracking animals may be giving a negative impact rather then a positive one?",
+        "target": "footnote-container",
+        "id": "footnote1308330736389"
+      }
+    }, {
+      "image": {
+        "start": 82,
+        "end": 91,
+        "href": "http://blogs.plos.org/everyone/files/2010/09/pone-05-08-sturgeon.jpg",
+        "src": "http://blogs.plos.org/everyone/files/2010/09/pone-05-08-sturgeon.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308330973641"
+      }
+    }, {
+      "wikipedia": {
+        "start": 92,
+        "end": 95,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Fisheries",
+        "title": "Fisheries",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308331057897"
+      }
+    }, {
+      "image": {
+        "start": 92,
+        "end": 95,
+        "href": "http://maps.grida.no/library/files/trends-in-fisheries-freshwater-and-marine-capture-fishery.jpg",
+        "src": "http://maps.grida.no/library/files/trends-in-fisheries-freshwater-and-marine-capture-fishery.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308331063129"
+      }
+    }, {
+      "footnote": {
+        "start": 96,
+        "end": 102,
+        "text": "Definition-DNA :  A nucleic acid that carries the genetic information in the cell and is capable of self-replication and synthesis of RNA. DNA consists of two long chains of nucleotides twisted into a double helix and joined by hydrogen bonds between the complementary bases adenine and thymine or cytosine and guanine. The sequence of nucleotides determines individual hereditary characteristics.",
+        "target": "footnote-container",
+        "id": "footnote1308331292294"
+      }
+    }, {
+      "image": {
+        "start": 96,
+        "end": 102,
+        "href": "http://www.newsperuvian.com/wp-content/uploads/2011/05/dna-model-4.jpg",
+        "src": "http://www.newsperuvian.com/wp-content/uploads/2011/05/dna-model-4.jpg",
+        "text": "                DNA",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308331376577"
+      }
+    }, {
+      "wikipedia": {
+        "start": 96,
+        "end": 102,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/DNA",
+        "title": "DNA",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308331557452"
+      }
+    }, {
+      "image": {
+        "start": 103,
+        "end": 106,
+        "href": "http://www.greenparenthood.com/wp-content/uploads/2011/01/Coral-reef-fish.jpg",
+        "src": "http://www.greenparenthood.com/wp-content/uploads/2011/01/Coral-reef-fish.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308331632895"
+      }
+    }, {
+      "image": {
+        "start": 107,
+        "end": 110,
+        "href": "http://images.sciencedaily.com/2007/05/070503145443-large.jpg",
+        "src": "http://images.sciencedaily.com/2007/05/070503145443-large.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308331710271"
+      }
+    }, {
+      "image": {
+        "start": 111,
+        "end": 114,
+        "href": "http://www.coralreefinfo.com/images/coral_reef.jpg",
+        "src": "http://www.coralreefinfo.com/images/coral_reef.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308331847628"
+      }
+    }, {
+      "wikipedia": {
+        "start": 115,
+        "end": 126,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Bluefin_Tuna",
+        "title": "http://en.wikipedia.org/wiki/Bluefin_Tuna",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308332037353"
+      }
+    }, {
+      "image": {
+        "start": 115,
+        "end": 126,
+        "href": "http://farm3.static.flickr.com/2470/4025429080_72f5bcd1b8.jpg",
+        "src": "http://farm3.static.flickr.com/2470/4025429080_72f5bcd1b8.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308332166391"
+      }
     }]
   },
   "targets": {},
   "tracks": {
-    "trackLiner0": ["wikipedia1308319648164", "wikipedia1308319681799", "wikipedia1308319688094", "wikipedia1308319712967", "wikipedia1308319721691", "image1308319874488"],
-    "trackLiner1": ["image1308319667386", "image1308319694429"],
-    "trackLiner2": ["webpage1308319505150"],
+    "trackLiner0": ["wikipedia1308319648164", "wikipedia1308319681799", "wikipedia1308319688094", "wikipedia1308319712967", "wikipedia1308319721691", "image1308319874488", "wikipedia1308330413325", "wikipedia1308331057897", "wikipedia1308331557452", "wikipedia1308332037353"],
+    "trackLiner1": ["image1308319667386", "image1308319694429", "image1308330973641", "image1308331063129", "image1308331376577", "image1308331632895", "image1308331710271", "image1308331847628", "image1308332166391"],
+    "trackLiner2": ["webpage1308319505150", "http://"],
     "trackLiner3": ["wordriver1308319505108"],
-    "trackLiner4": ["wordriver1308319505084"]
+    "trackLiner4": ["wordriver1308319505084"],
+    "trackLiner5": ["footnote1308330736389", "footnote1308331292294"]
   }
 }

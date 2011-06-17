@@ -6,8 +6,8 @@
         "data": [{
             "image": {
                 "end": 10,
-                "href": "http://www.google.com/imgres?imgurl=http://www.calenergy.com/include/images/logo.gif&imgrefurl=http://www.calenergy.com/&usg=__v0AHviZeMuU2EFRh-_8QL3SQwpw=&h=42&w=233&sz=2&hl=en&start=0&zoom=1&tbnid=vLzuaCsjUUspvM:&tbnh=25&tbnw=136&ei=mwL5TazmC4LPgAf_p-Dt",
-                "src": "http://www.google.com/imgres?imgurl=http://www.calenergy.com/include/images/logo.gif&imgrefurl=http://www.calenergy.com/&usg=__v0AHviZeMuU2EFRh-_8QL3SQwpw=&h=42&w=233&sz=2&hl=en&start=0&zoom=1&tbnid=vLzuaCsjUUspvM:&tbnh=25&tbnw=136&ei=mwL5TazmC4LPgAf_p-Dt",
+                "href": "http://www.calenergy.com/include/images/logo.gif",
+                "src": "http://www.calenergy.com/include/images/logo.gif",
                 "target": "image-container",
                 "link": {},
                 "id": "image1308319003406"
@@ -51,7 +51,7 @@
                 "type": "image",
                 "start": 34,
                 "end": 40,
-                "href": "http://www.google.com/imgres?imgurl=http://geothermal.marin.org/geopresentation/images/img012.jpg&imgrefurl=http://geothermal.marin.org/geopresentation/sld012.htm&usg=__JhZQPZzGYNWgUZCgt0ev-dgcDX0=&h=383&w=575&sz=66&hl=en&start=0&zoom=1&tbnid=_YQVfHoYnEIP",
+                "href": "http://geothermal.marin.org/geopresentation/images/img012.jpg",
                 "src": "http://geothermal.marin.org/geopresentation/images/img012.jpg",
                 "target": "image-container",
                 "link": {},
@@ -74,8 +74,8 @@
                 "type": "image",
                 "start": 48,
                 "end": 54,
-                "href": "http://www.google.ca/imgres?imgurl=http://astrobio.net/albums/album03/abl.jpg&imgrefurl=http://www.astrobio.net/pressrelease/2241/water-world&usg=__1MiufOb2rbajaUBqz0t7rBatwY8=&h=280&w=294&sz=27&hl=en&start=4&zoom=1&itbs=1&tbnid=IeJPYI5qxCMlyM:&tbnh=110&tbnw=115&prev=/search%3Fq%3Dinside%2Bthe%2Bearth%26hl%3Den%26rls%3Dcom.microsoft:en-us:IE-SearchBox%26rlz%3D1I7GGLL_en%26biw%3D1003%26bih%3D588%26tbm%3Disch&ei=vcf3TYP-G42cgQfswb38Cw",
-                "src": "http://www.google.ca/imgres?imgurl=http://astrobio.net/albums/album03/abl.jpg&imgrefurl=http://www.astrobio.net/pressrelease/2241/water-world&usg=__1MiufOb2rbajaUBqz0t7rBatwY8=&h=280&w=294&sz=27&hl=en&start=4&zoom=1&itbs=1&tbnid=IeJPYI5qxCMlyM:&tbnh=110&tbnw=115&prev=/search%3Fq%3Dinside%2Bthe%2Bearth%26hl%3Den%26rls%3Dcom.microsoft:en-us:IE-SearchBox%26rlz%3D1I7GGLL_en%26biw%3D1003%26bih%3D588%26tbm%3Disch&ei=vcf3TYP-G42cgQfswb38Cw",
+                "href": "http://www.astrobio.net/albums/album03/abl.jpg",
+                "src": "http://www.astrobio.net/albums/album03/abl.jpg",
                 "target": "image-container",
                 "link": {},
                 "id": "image1308318994355"

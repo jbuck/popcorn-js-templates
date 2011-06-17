@@ -1,114 +1,84 @@
 {
-    "title": "Ocean Observations Biodiversity Video",
-    "description": "A presentation describing the need to monitor biodiversity in the oceans",
-    "remote": "http://videos-cdn.mozilla.net/serv/webmademovies/Moz_Doc_0329_GetInvolved_ST.webm",
-    "data": {
-        "data": [{
-            "googlemap": {
-                "start": 34,
-                "end": 54,
-                "type": "ROADMAP",
-                "zoom": 1,
-                "lat": 43.7708708,
-                "lng": -79.4992517,
-                "location": "Atlantic Ocean",
-                "target": "googlemap-container",
-                "id": "googlemap1308167684091"
-            }
-        }, {
-            "image": {
-                "start": 10,
-                "end": 14,
-                "src": "images/greatwhiteshark.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076519"
-            }
-        }, {
-            "image": {
-                "start": 17,
-                "end": 24,
-                "src": "images/ocean-temperature.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076520"
-            }
-        }, 
-         {
-            "image": {
-                "start": 42,
-                "end": 52,
-                "src": "images/plankton.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308168076521"
-            }
-        },{
-            "wikipedia": {
-                "start": 17,
-                "end": 24,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Biodiversity",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308168079083"
-            }
-        },
-        {
-            "footnote": {
-                "start": 6,
-                "end": 9,
-                "text": "Oceans are a fundamental part of our ecosystem",
-                "target": "footnote-container",
-                "id": "footnote1308168081422"
-            }
-        }, {
-            "subtitle": {
-                "start": 3,
-                "end": 4,
-                "text": "Earth",
-                "target": "subtitle-container",
-                "container": {},
-                "id": "subtitle1308168085949"
-            }
-        }, 
-        {
-            "subtitle": {
-                "start": 4,
-                "end": 5,
-                "text": "is a water planet",
-                "target": "subtitle-container",
-                "container": {},
-                "id": "subtitle1308168085950"
-            }
-        }, {
-            "wordriver": {
-                "start": 24,
-                "end": 28,
-                "text": "All nations are affected by over-fishing",
-                "target": "wordriver-container",
-                "word": {},
-                "id": "wordriver1308168094947",
-                "color": "white"
-            }
-        }, {
-            "webpage": {
-                "start": 21.75,
-                "end": 26.25,
-                "src": "http://en.wikipedia.org/wiki/Harry_Potter",
-                "target": "webpage-container",
-                "id": "webpage1308168090055"
-            }
-        }]
-    },
-    "targets": {},
-    "tracks": {
-        "trackLiner0": ["footnote1308168081422"],
-        "trackLiner1": ["googlemap1308167684091"],
-        "trackLiner2": ["subtitle1308168085949"],
-        "trackLiner3": ["wikipedia1308168079083", "webpage1308168090055"],
-        "trackLiner4": [],
-        "trackLiner5": ["image1308168076519"],
-        "trackLiner6": ["wordriver1308168094947"]
-    }
+  "title": "History of Aboriginals ",
+  "description": "",
+  "remote": "http://www.youtube.com/watch?v=lh_ZVwsvYl4",
+  "data": {
+    "data": [{
+      "image": {
+        "start": 20,
+        "end": 25,
+        "href": "http://canadachannel.ca/common/thumb/Champlainbrule.jpg/660px-Champlainbrule.jpg",
+        "src": "http://canadachannel.ca/common/thumb/Champlainbrule.jpg/660px-Champlainbrule.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308331829166"
+      }
+    }, {
+      "wikipedia": {
+        "start": 25,
+        "end": 35,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/French_Canadian",
+        "numberofwords": 1000000000,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308331945193"
+      }
+    }, {
+      "footnote": {
+        "start": 30,
+        "end": 35,
+        "text": "Sovereignty: A supreme power over people or land.",
+        "target": "footnote-container",
+        "id": "footnote1308331984628"
+      }
+    }, {
+      "webpage": {
+        "id": "http://www.canadiana.ca/citm/themes/pioneers/pioneers3_e.html",
+        "start": 30,
+        "end": 40,
+        "src": "http://www.canadiana.ca/citm/themes/pioneers/pioneers3_e.html",
+        "target": "webpage-container"
+      }
+    }, {
+      "webpage": {
+        "id": "http://www.aboriginalartshop.com/Culture/aboriginal-ceremonies-songs-a-dances.html",
+        "start": 41,
+        "end": 50,
+        "src": "http://www.aboriginalartshop.com/Culture/aboriginal-ceremonies-songs-a-dances.html",
+        "target": "webpage-container"
+      }
+    }, {
+      "image": {
+        "start": 41,
+        "end": 50,
+        "href": "http://www.theepochtimes.com/n2/images/stories/large/2009/06/18/a.JPG",
+        "src": "http://www.theepochtimes.com/n2/images/stories/large/2009/06/18/a.JPG",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308332247312"
+      }
+    }, {
+      "webpage": {
+        "id": "http://www.heritage.nf.ca/exploration/aboriginal_relations.html",
+        "start": 51,
+        "end": 80,
+        "src": "http://www.heritage.nf.ca/exploration/aboriginal_relations.html",
+        "target": "webpage-container"
+      }
+    }, {
+      "webpage": {
+        "id": "http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=a1ARTA00056414",
+        "start": 80,
+        "end": 93,
+        "src": "http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=a1ARTA00056414",
+        "target": "webpage-container"
+      }
+    }]
+  },
+  "targets": {},
+  "tracks": {
+    "trackLiner0": ["image1308331829166", "http://www.canadiana.ca/citm/themes/pioneers/pioneers3_e.html", "http://www.heritage.nf.ca/exploration/aboriginal_relations.html"],
+    "trackLiner1": ["wikipedia1308331945193", "http://www.aboriginalartshop.com/Culture/aboriginal-ceremonies-songs-a-dances.html"],
+    "trackLiner2": ["footnote1308331984628", "image1308332247312", "http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=a1ARTA00056414"]
+  }
 }

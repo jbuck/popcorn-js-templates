@@ -1,59 +1,193 @@
 {
-    "title": "Aboriginals1",
-    "description": "",
-    "remote": "http://www.youtube.com/watch?v=sMTwxxT3j2k",
-    "data": {
-        "data": [{
-            "webpage": {
-                "start": 13,
-                "end": 16,
-                "src": "http://www.imdb.com/name/nm1583205/",
-                "target": "webpage-container",
-                "id": "webpage1308319535034"
-            }
-        }, {
-            "googlemap": {
-                "start": 14,
-                "end": 18,
-                "type": "ROADMAP",
-                "zoom": 8,
-                "lat": "49 54' N",
-                "lng": "97 08' W",
-                "target": "googlemap-container",
-                "id": "googlemap1308319667409"
-            }
-        }, {
-            "wikipedia": {
-                "start": 85,
-                "end": 90,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/John_Diefenbaker",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308319731612"
-            }
-        }, {
-            "webpage": {
-                "start": 85,
-                "end": 90,
-                "src": "http://www.uwinnipeg.ca/index/research-2006-b-rice",
-                "target": "webpage-container",
-                "id": "webpage1308319790737"
-            }
-        }, {
-            "footnote": {
-                "start": 85,
-                "end": 90,
-                "text": "Status Indians are registered Indians who uphold rights and benefits that are not granted to unregistered Indians. Some of these benefits include; the granting of reserves, a lengthened hunting season and rights associated with them.",
-                "target": "footnote-container",
-                "id": "footnote1308320002528"
-            }
-        }]
-    },
-    "targets": {},
-    "tracks": {
-        "trackLiner0": ["webpage1308319535034", "wikipedia1308319731612"],
-        "trackLiner1": ["googlemap1308319667409", "webpage1308319790737"],
-        "trackLiner2": ["footnote1308320002528"]
-    }
+  "title": "Aboriginals1.Second",
+  "description": "",
+  "remote": "http://www.youtube.com/watch?v=sMTwxxT3j2k",
+  "data": {
+    "data": [{
+      "webpage": {
+        "start": 13,
+        "end": 16,
+        "src": "http://www.eaglevision.ca/bios.html",
+        "target": "webpage-container",
+        "id": "webpage1309359133807"
+      }
+    }, {
+      "googlemap": {
+        "start": 14,
+        "end": 18,
+        "type": "ROADMAP",
+        "zoom": 8,
+        "lat": 49.8901254,
+        "lng": -97.15339540000002,
+        "location": "515 Portage Avenue, Winnipeg, MB R3B 2E9",
+        "target": "googlemap-container",
+        "id": "googlemap1309359251229"
+      }
+    }, {
+      "wikipedia": {
+        "start": 85,
+        "end": 90,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/John_Diefenbaker",
+        "title": "John Diefenbaker",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309359133849"
+      }
+    }, {
+      "footnote": {
+        "start": 85,
+        "end": 90,
+        "text": "Status Indians are registered Indians who uphold rights and benefits that are not granted to unregistred Indians. Some of the rights include the granting of reserves and rights associated with them.",
+        "target": "footnote-container",
+        "id": "footnote1309359133886"
+      }
+    }, {
+      "webpage": {
+        "start": 85,
+        "end": 90,
+        "src": "http://www.uwinnipeg.ca/index/research-200d-b-rice",
+        "target": "webpage-container",
+        "id": "webpage1309359133916"
+      }
+    }, {
+      "wikipedia": {
+        "start": 90,
+        "end": 100,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Federal_Voting_Assistance_Program",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309360456980"
+      }
+    }, {
+      "image": {
+        "start": 100,
+        "end": 105,
+        "href": "http://www.google.ca/imgres?imgurl=http://s4.hubimg.com/u/2459943_f496.jpg&imgrefurl=http://hubpages.com/hub/Aboriginal-Dances-In-the-Olympics&usg=__Msy7yZAU0y51hwNhviIe8nV4qWg=&h=314&w=496&sz=26&hl=en&start=0&zoom=1&tbnid=tBZmBIKadcskQM:&tbnh=127&tbnw=200&ei=rD4LTpHYH6fq0gGKwPmbAQ&prev=/search%3Fq%3Daboriginal%2Bperson%26um%3D1%26hl%3Den%26sa%3DX%26biw%3D1024%26bih%3D497%26tbm%3Disch&um=1&itbs=1&iact=hc&vpx=709&vpy=145&dur=426&hovh=127&hovw=200&tx=152&ty=101&page=1&ndsp=9&ved=1t:429,r:4,s:0",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309360498382"
+      }
+    }, {
+      "footnote": {
+        "start": 103,
+        "end": 110,
+        "text": "Women got the right to vote in 1918. Immigrants in 1920, Japanese People in 1949, and Canada's OWN Aboriginals only got  the right to vote in 1968 in some provinces! Why do you think Aboriginals wouldn't be given the right to vote earlier, if they were Canada's original inhabitents? ",
+        "target": "footnote-container",
+        "id": "footnote1309360196083"
+      }
+    }, {
+      "wikipedia": {
+        "start": 104.75,
+        "end": 110,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/1888",
+        "numberofwords": 500,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309361151657"
+      }
+    }, {
+      "wikipedia": {
+        "start": 110,
+        "end": 120,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Voting",
+        "title": "Voting",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309360654900"
+      }
+    }, {
+      "wikipedia": {
+        "start": 135,
+        "end": 139,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Indian_Act",
+        "title": "The Indian Act",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309359133946"
+      }
+    }, {
+      "webpage": {
+        "start": 180,
+        "end": 199,
+        "src": "http://nadiamyre.com/Nadia_Myre/home_html",
+        "target": "webpage-container",
+        "id": "webpage1309359442202"
+      }
+    }, {
+      "image": {
+        "start": 180.75,
+        "end": 199.75,
+        "href": "http://gormanmuseum.ucdavis.edu/Exhibitions/Previous/Things/Myre.jpg",
+        "text": "Nadia Myre Indian Act",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309359439016"
+      }
+    }, {
+      "footnote": {
+        "start": 210,
+        "end": 217,
+        "text": "The Indian Act was only changed to INCREASE restrictions.",
+        "target": "footnote-container",
+        "id": "footnote1309359134043"
+      }
+    }, {
+      "webpage": {
+        "start": 220,
+        "end": 236,
+        "src": "http://www.canadiana.ca/citm/themes/aboriginals/aboriginals7_e.html",
+        "target": "webpage-container",
+        "id": "webpage1309359134077"
+      }
+    }, {
+      "image": {
+        "start": 242,
+        "end": 249,
+        "href": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Hermansberg-NT.jpg/220px-Hermansberg_NT.jpg",
+        "text": "Aboriginal Farm",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309359134105"
+      }
+    }, {
+      "webpage": {
+        "start": 281,
+        "end": 292,
+        "src": "http://esask.urigina.ca/entry/almighty voice 1875-97.html",
+        "target": "webpage-container",
+        "id": "webpage1309359134138"
+      }
+    }, {
+      "wikipedia": {
+        "start": 293,
+        "end": 308.5,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Royal_Canadian_Mounted_Police",
+        "title": "RCMP",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309359134168"
+      }
+    }, {
+      "footnote": {
+        "start": 293,
+        "end": 308.5,
+        "text": "RCMP stands for the Royal Canadian Mounted Police, known more commenly as mounties.  RCMP's are thought of as the 'Symbol of Canada', and they are the federal police force of Canada. The RCMP's enforce federal laws, such as Indian Rights.",
+        "target": "footnote-container",
+        "id": "footnote1309359134197"
+      }
+    }]
+  },
+  "targets": {},
+  "tracks": {
+    "trackLiner0": ["wikipedia1309359133849", "wikipedia1309359133946", "footnote1309359134043", "image1309359134105", "webpage1309359134138", "footnote1309360196083"],
+    "trackLiner1": ["webpage1309359133807", "footnote1309359133886", "wikipedia1309359134168"],
+    "trackLiner2": ["webpage1309359133916", "webpage1309359134077", "footnote1309359134197", "googlemap1309359251229", "wikipedia1309361151657"],
+    "trackLiner3": ["webpage1309359442202", "wikipedia1309360456980"],
+    "trackLiner4": ["image1309359439016", "image1309360498382", "wikipedia1309360654900"]
+  }
 }

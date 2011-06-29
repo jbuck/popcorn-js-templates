@@ -45,6 +45,7 @@ body {
   padding: 0px;
   box-shadow: 0 0 10px #000000;
   background: #000000;
+  z-index: 9001;
 }
 
 #image-container {
@@ -89,5 +90,8 @@ body {
 }
 
 #webpage-container {
-  display: none;
+  top: 80px;
+  right: 10px;
+  width: 240px;
+  height: 240px;
 }

@@ -1,200 +1,405 @@
 {
-    "title": "Elecricity + Butter = AWESOME",
-    "description": "It's AWESOME!",
-    "remote": "http://www.youtube.com/watch?v=kjpp2MQffnw",
-    "data": {
-        "data": [{
-            "image": {
-                "end": 10,
-                "href": "http://www.calenergy.com/include/images/logo.gif",
-                "src": "http://www.calenergy.com/include/images/logo.gif",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308319003406"
-            }
-        }, {
-            "webpage": {
-                "end": 6,
-                "src": "http://www.calenergy.com/",
-                "target": "webpage-container",
-                "id": "webpage1308319008203"
-            }
-        }, {
-            "webpage": {
-                "type": "webpage",
-                "start": 6,
-                "end": 10,
-                "src": "http://www.darvill.clara.net/altenerg/fossil.htm",
-                "target": "webpage-container",
-                "id": "webpage1308318994192"
-            }
-        }, {
-            "footnote": {
-                "type": "footnote",
-                "start": 6,
-                "end": 10,
-                "text": "Coal, oil and gas are called \"fossil fuels\" because they have been formed from the organic remains of prehistoric plants and animals.",
-                "target": "footnote-container",
-                "id": "footnote1308318994230"
-            }
-        }, {
-            "webpage": {
-                "type": "webpage",
-                "start": 20,
-                "end": 33,
-                "src": "http://www.universetoday.com/27908/what-is-the-difference-between-lava-and-magma/",
-                "target": "webpage-container",
-                "id": "webpage1308318994259"
-            }
-        }, {
-            "image": {
-                "type": "image",
-                "start": 34,
-                "end": 40,
-                "href": "http://geothermal.marin.org/geopresentation/images/img012.jpg",
-                "src": "http://geothermal.marin.org/geopresentation/images/img012.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318994286"
-            }
-        }, {
-            "wikipedia": {
-                "type": "wikipedia",
-                "start": 40,
-                "end": 46,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Superheated_water",
-                "title": "Superheated_water",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308318994330"
-            }
-        }, {
-            "image": {
-                "type": "image",
-                "start": 48,
-                "end": 54,
-                "href": "http://www.astrobio.net/albums/album03/abl.jpg",
-                "src": "http://www.astrobio.net/albums/album03/abl.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318994355"
-            }
-        }, {
-            "wikipedia": {
-                "type": "wikipedia",
-                "start": 54,
-                "end": 61,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Injection_well",
-                "title": "Injection Well",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308318994388"
-            }
-        }, {
-            "wordriver": {
-                "type": "wordriver",
-                "start": 54,
-                "end": 61,
-                "text": "An injection well is a vertical pipe in the ground into which fluids are pumped through.",
-                "color": "magenta",
-                "target": "wordriver-container",
-                "word": {},
-                "id": "wordriver1308318994431"
-            }
-        }, {
-            "wikipedia": {
-                "type": "wikipedia",
-                "start": 75,
-                "end": 79,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Geothermal_electricity",
-                "title": "Geo - Electricity",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308318994456"
-            }
-        }, {
-            "wikipedia": {
-                "type": "wikipedia",
-                "start": 80,
-                "end": 85,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Steam",
-                "title": "Steam",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308318994484"
-            }
-        }, {
-            "image": {
-                "start": 89,
-                "end": 91,
-                "href": "http://www.geology.arkansas.gov/images/brine_productionpump.jpg",
-                "src": "http://www.geology.arkansas.gov/images/brine_productionpump.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308319249599"
-            }
-        }, {
-            "footnote": {
-                "start": 90,
-                "end": 93,
-                "text": "The tempurature of the fluid at this point is 182 degrees celcius",
-                "target": "footnote-container",
-                "id": "footnote1308319166456"
-            }
-        }, {
-            "image": {
-                "start": 91,
-                "end": 96,
-                "href": "http://www.jcmiras.net/jcm2/wp-content/uploads/2008/tongonan-topping-cycle-geothermal-plant.JPG",
-                "src": "http://www.jcmiras.net/jcm2/wp-content/uploads/2008/tongonan-topping-cycle-geothermal-plant.JPG",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308319433240"
-            }
-        }, {
-            "image": {
-                "start": 96,
-                "end": 101,
-                "href": "http://www.energy-green.net/blog/upload/geothermal-power.jpg",
-                "src": "http://www.energy-green.net/blog/upload/geothermal-power.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308319243108"
-            }
-        }, {
-            "wordriver": {
-                "type": "wordriver",
-                "start": 117,
-                "end": 120,
-                "text": "Seperator",
-                "color": "green",
-                "target": "wordriver-container",
-                "word": {},
-                "id": "wordriver1308318994634"
-            }
-        }, {
-            "image": {
-                "type": "image",
-                "start": 117,
-                "end": 120,
-                "text": "UNDONE GROUP",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318994661"
-            }
-        }]
-    },
-    "targets": {},
-    "tracks": {
-        "trackLiner0": ["wikipedia1308318994456", "wikipedia1308318994484", "image1308318994661", "image1308319003406", "image1308319249599"],
-        "trackLiner1": ["webpage1308318994259", "wordriver1308318994431", "wordriver1308318994634", "webpage1308319008203", "footnote1308319166456"],
-        "trackLiner2": ["image1308318994286", "wikipedia1308318994388", "image1308319433240"],
-        "trackLiner3": ["footnote1308318994230", "wikipedia1308318994330", "image1308318994355", "image1308319243108"],
-        "trackLiner4": ["webpage1308318994192"],
-        "trackLiner5": []
-    }
+  "title": "Elecricity + Butter = AWESOME",
+  "description": "It's AWESOME!",
+  "remote": "http://www.youtube.com/watch?v=kjpp2MQffnw",
+  "data": {
+    "data": [{
+      "image": {
+        "end": 10,
+        "href": "http://www.google.com/imgres?imgurl=http://www.calenergy.com/include/images/logo.gif&imgrefurl=http://www.calenergy.com/&usg=__v0AHviZeMuU2EFRh-_8QL3SQwpw=&h=42&w=233&sz=2&hl=en&start=0&zoom=1&tbnid=vLzuaCsjUUspvM:&tbnh=25&tbnw=136&ei=mwL5TazmC4LPgAf_p-Dt",
+        "src": "http://www.google.com/imgres?imgurl=http://www.calenergy.com/include/images/logo.gif&imgrefurl=http://www.calenergy.com/&usg=__v0AHviZeMuU2EFRh-_8QL3SQwpw=&h=42&w=233&sz=2&hl=en&start=0&zoom=1&tbnid=vLzuaCsjUUspvM:&tbnh=25&tbnw=136&ei=mwL5TazmC4LPgAf_p-Dt",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358187773"
+      }
+    }, {
+      "webpage": {
+        "end": 6,
+        "src": "http://www.calenergy.com/",
+        "target": "webpage-container",
+        "id": "webpage1309358191717"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 6,
+        "end": 10,
+        "src": "http://www.darvill.clara.net/altenerg/fossil.htm",
+        "target": "webpage-container",
+        "id": "webpage1309358170480"
+      }
+    }, {
+      "footnote": {
+        "type": "footnote",
+        "start": 6,
+        "end": 10,
+        "text": "Coal, oil and gas are called \"fossil fuels\" because they have been formed from the organic remains of prehistoric plants and animals.",
+        "target": "footnote-container",
+        "id": "footnote1309358170514"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 20,
+        "end": 33,
+        "src": "http://www.universetoday.com/27908/what-is-the-difference-between-lava-and-magma/",
+        "target": "webpage-container",
+        "id": "webpage1309358170542"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 34,
+        "end": 40,
+        "href": "http://www.google.com/imgres?imgurl=http://geothermal.marin.org/geopresentation/images/img012.jpg&imgrefurl=http://geothermal.marin.org/geopresentation/sld012.htm&usg=__JhZQPZzGYNWgUZCgt0ev-dgcDX0=&h=383&w=575&sz=66&hl=en&start=0&zoom=1&tbnid=_YQVfHoYnEIP",
+        "src": "http://www.google.com/imgres?imgurl=http://geothermal.marin.org/geopresentation/images/img012.jpg&imgrefurl=http://geothermal.marin.org/geopresentation/sld012.htm&usg=__JhZQPZzGYNWgUZCgt0ev-dgcDX0=&h=383&w=575&sz=66&hl=en&start=0&zoom=1&tbnid=_YQVfHoYnEIP",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358170578"
+      }
+    }, {
+      "wikipedia": {
+        "type": "wikipedia",
+        "start": 40,
+        "end": 46,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Superheated_water",
+        "title": "Superheated_water",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309358170620"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 48,
+        "end": 54,
+        "href": "http://www.google.ca/imgres?imgurl=http://astrobio.net/albums/album03/abl.jpg&imgrefurl=http://www.astrobio.net/pressrelease/2241/water-world&usg=__1MiufOb2rbajaUBqz0t7rBatwY8=&h=280&w=294&sz=27&hl=en&start=4&zoom=1&itbs=1&tbnid=IeJPYI5qxCMlyM:&tbnh=110&tbnw=115&prev=/search%3Fq%3Dinside%2Bthe%2Bearth%26hl%3Den%26rls%3Dcom.microsoft:en-us:IE-SearchBox%26rlz%3D1I7GGLL_en%26biw%3D1003%26bih%3D588%26tbm%3Disch&ei=vcf3TYP-G42cgQfswb38Cw",
+        "src": "http://www.google.ca/imgres?imgurl=http://astrobio.net/albums/album03/abl.jpg&imgrefurl=http://www.astrobio.net/pressrelease/2241/water-world&usg=__1MiufOb2rbajaUBqz0t7rBatwY8=&h=280&w=294&sz=27&hl=en&start=4&zoom=1&itbs=1&tbnid=IeJPYI5qxCMlyM:&tbnh=110&tbnw=115&prev=/search%3Fq%3Dinside%2Bthe%2Bearth%26hl%3Den%26rls%3Dcom.microsoft:en-us:IE-SearchBox%26rlz%3D1I7GGLL_en%26biw%3D1003%26bih%3D588%26tbm%3Disch&ei=vcf3TYP-G42cgQfswb38Cw",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358170644"
+      }
+    }, {
+      "wikipedia": {
+        "type": "wikipedia",
+        "start": 54,
+        "end": 61,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Injection_well",
+        "title": "Injection Well",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309358170678"
+      }
+    }, {
+      "wordriver": {
+        "type": "wordriver",
+        "start": 54,
+        "end": 61,
+        "text": "An injection well is a vertical pipe in the ground into which fluids are pumped through.",
+        "color": "magenta",
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1309358170717"
+      }
+    }, {
+      "wikipedia": {
+        "type": "wikipedia",
+        "start": 75,
+        "end": 79,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Geothermal_electricity",
+        "title": "Geo - Electricity",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309358170741"
+      }
+    }, {
+      "wikipedia": {
+        "type": "wikipedia",
+        "start": 80,
+        "end": 85,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Steam",
+        "title": "Steam",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309358170769"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 89,
+        "end": 91,
+        "href": "http://www.geology.arkansas.gov/images/brine_productionpump.jpg",
+        "src": "http://www.geology.arkansas.gov/images/brine_productionpump.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358170789"
+      }
+    }, {
+      "footnote": {
+        "type": "footnote",
+        "start": 90,
+        "end": 93,
+        "text": "The tempurature of the fluid at this point is 182 degrees celcius",
+        "target": "footnote-container",
+        "id": "footnote1309358170815"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 91,
+        "end": 96,
+        "href": "http://www.jcmiras.net/jcm2/wp-content/uploads/2008/tongonan-topping-cycle-geothermal-plant.JPG",
+        "src": "http://www.jcmiras.net/jcm2/wp-content/uploads/2008/tongonan-topping-cycle-geothermal-plant.JPG",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358170841"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 96,
+        "end": 101,
+        "href": "http://www.energy-green.net/blog/upload/geothermal-power.jpg",
+        "src": "http://www.energy-green.net/blog/upload/geothermal-power.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358170868"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 101,
+        "end": 106,
+        "href": "http://renewablenergie.com/wp-content/uploads/2011/05/1306257014-24.jpg",
+        "src": "http://renewablenergie.com/wp-content/uploads/2011/05/1306257014-24.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358170893"
+      }
+    }, {
+      "wordriver": {
+        "type": "wordriver",
+        "start": 117,
+        "end": 120,
+        "text": "Separator",
+        "color": "green",
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1309358170914"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 117,
+        "end": 120,
+        "href": "http://www.wheatleyhvac.com/images/air-separator.jpg",
+        "src": "http://www.wheatleyhvac.com/images/air-separator.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358170940"
+      }
+    }, {
+      "wordriver": {
+        "type": "wordriver",
+        "start": 121,
+        "end": 125,
+        "text": "Standard pressure crystallizer",
+        "color": "blue",
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1309358170966"
+      }
+    }, {
+      "image": {
+        "start": 121,
+        "end": 125,
+        "href": "http://www.wheatleyhvac.com/images/air-separator.jpg",
+        "src": "http://www.wheatleyhvac.com/images/air-separator.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358170993"
+      }
+    }, {
+      "footnote": {
+        "start": 127,
+        "end": 132,
+        "text": "The country that generates the most geothermal energy is...",
+        "target": "footnote-container",
+        "id": "footnote1309358171020"
+      }
+    }, {
+      "wordriver": {
+        "start": 132.5,
+        "end": 136.5,
+        "text": "America",
+        "color": "purple",
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1309358171046"
+      }
+    }, {
+      "googlemap": {
+        "start": 132.5,
+        "end": 136.5,
+        "type": "ROADMAP",
+        "zoom": 8,
+        "lat": 37.09024,
+        "lng": -95.71289100000001,
+        "location": "America",
+        "target": "googlemap-container",
+        "id": "googlemap1309358171086"
+      }
+    }, {
+      "webpage": {
+        "start": 137,
+        "end": 140,
+        "src": "http://www.geothermal-energy.org/",
+        "target": "webpage-container",
+        "id": "webpage1309358171111"
+      }
+    }, {
+      "subtitle": {
+        "start": 140,
+        "end": 152,
+        "text": "Lower Pressure",
+        "target": "subtitle-container",
+        "container": {},
+        "accessibility": {},
+        "display": "inline",
+        "id": "subtitle1309358171161"
+      }
+    }, {
+      "image": {
+        "start": 140,
+        "end": 150,
+        "href": "http://image.ec21.com/image/king163/OF0008430657_2/Sell_Crystallizer.jpg",
+        "src": "http://image.ec21.com/image/king163/OF0008430657_2/Sell_Crystallizer.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358171187"
+      }
+    }, {
+      "webpage": {
+        "start": 146,
+        "end": 150,
+        "src": "http://dictionary.reference.com/browse/generator",
+        "target": "webpage-container",
+        "id": "webpage1309358171218"
+      }
+    }, {
+      "footnote": {
+        "start": 153,
+        "end": 164,
+        "text": "Notice that all steams merge together to form 1 single steam.",
+        "target": "footnote-container",
+        "id": "footnote1309358171255"
+      }
+    }, {
+      "wikipedia": {
+        "start": 174,
+        "end": 180,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Injection_well",
+        "title": "Injection Well",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309358171283"
+      }
+    }, {
+      "image": {
+        "start": 174,
+        "end": 180,
+        "href": "http://www.netl.doe.gov/newsroom/netlog/oct2010/images/Inj%20Well%20040910.jpg",
+        "src": "http://www.netl.doe.gov/newsroom/netlog/oct2010/images/Inj%20Well%20040910.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358171309"
+      }
+    }, {
+      "footnote": {
+        "start": 174,
+        "end": 180,
+        "text": "The reservoir is the superheated water under the ground",
+        "target": "footnote-container",
+        "id": "footnote1309358171338"
+      }
+    }, {
+      "image": {
+        "start": 180,
+        "end": 195,
+        "href": "http://1.bp.blogspot.com/_W99vfljlto0/S9XkEtXTFrI/AAAAAAAAAGU/EB69OWF6EpY/s1600/turbine-power_low_pressure.jpg",
+        "src": "http://1.bp.blogspot.com/_W99vfljlto0/S9XkEtXTFrI/AAAAAAAAAGU/EB69OWF6EpY/s1600/turbine-power_low_pressure.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1309358171368"
+      }
+    }, {
+      "subtitle": {
+        "start": 180,
+        "end": 201,
+        "text": "Turbines",
+        "target": "subtitle-container",
+        "container": {},
+        "accessibility": {},
+        "display": "inline",
+        "id": "subtitle1309358171395"
+      }
+    }, {
+      "wikipedia": {
+        "start": 180,
+        "end": 195,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Turbines",
+        "title": "Turbine",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309358428544"
+      }
+    }, {
+      "wikipedia": {
+        "start": 201,
+        "end": 205,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Electrical_charge",
+        "title": "Electrical charge",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309358171452"
+      }
+    }, {
+      "wikipedia": {
+        "start": 205,
+        "end": 210,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Electrical_generator",
+        "title": "Elecrticity Generator",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1309358171474"
+      }
+    }, {
+      "subtitle": {
+        "start": 206,
+        "end": 210,
+        "target": "subtitle-container",
+        "container": {},
+        "accessibility": {},
+        "display": "inline",
+        "id": "subtitle1309358171494"
+      }
+    }]
+  },
+  "targets": {},
+  "tracks": {
+    "trackLiner0": ["wikipedia1309358170741", "wikipedia1309358170769", "image1309358170789", "image1309358170940", "image1309358170993", "footnote1309358171020", "wordriver1309358171046", "webpage1309358171111", "footnote1309358171255", "wikipedia1309358171283", "wikipedia1309358171474", "image1309358187773"],
+    "trackLiner1": ["webpage1309358170542", "wordriver1309358170717", "footnote1309358170815", "wordriver1309358170914", "wordriver1309358170966", "googlemap1309358171086", "image1309358171187", "image1309358171309", "subtitle1309358171494", "webpage1309358191717"],
+    "trackLiner2": ["image1309358170578", "wikipedia1309358170678", "image1309358170841", "subtitle1309358171161", "footnote1309358171338"],
+    "trackLiner3": ["footnote1309358170514", "wikipedia1309358170620", "image1309358170644", "image1309358170868", "webpage1309358171218", "image1309358171368", "wikipedia1309358171452"],
+    "trackLiner4": ["webpage1309358170480", "image1309358170893", "subtitle1309358171395"],
+    "trackLiner5": ["wikipedia1309358428544"]
+  }
 }

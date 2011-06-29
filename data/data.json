@@ -5,6 +5,141 @@
   "data": {
     "data": [{
       "image": {
+        "type": "image",
+        "start": 13,
+        "end": 25,
+        "href": "http://canadachannel.ca/common/thumb/Champlainbrule.jpg/660px-Champlainbrule.jpg",
+        "src": "http://canadachannel.ca/common/thumb/Champlainbrule.jpg/660px-Champlainbrule.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308924933419"
+      }
+    }, {
+      "wikipedia": {
+        "type": "wikipedia",
+        "start": 21.25,
+        "end": 36.5,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/French_Canadian",
+        "numberofwords": 1000000000,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308924933453"
+      }
+    }, {
+      "footnote": {
+        "start": 27.75,
+        "end": 37.5,
+        "text": "Sovereignty: A supreme power over people or land.",
+        "target": "footnote-container",
+        "id": "footnote1308924968397"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 30.75,
+        "end": 46,
+        "src": "http://www.canadiana.ca/citm/themes/pioneers/pioneers3_e.html",
+        "target": "webpage-container",
+        "id": "webpage1308924933526"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 40,
+        "end": 52.5,
+        "href": "http://www.theepochtimes.com/n2/images/stories/large/2009/06/18/a.JPG",
+        "src": "http://www.theepochtimes.com/n2/images/stories/large/2009/06/18/a.JPG",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308924933672"
+      }
+    }, {
+      "webpage": {
+        "start": 47.5,
+        "end": 61,
+        "src": "http://www.aboriginalartshop.com/Culture/aboriginal-ceremonies-songs-a-dances.html",
+        "target": "webpage-container",
+        "id": "webpage1308925038660"
+      }
+    }, {
+      "webpage": {
+        "start": 58,
+        "end": 78.25,
+        "src": "http://www.heritage.nf.ca/exploration/aboriginal_relations.html",
+        "target": "webpage-container",
+        "id": "webpage1308925093514"
+      }
+    }, {
+      "wordriver": {
+        "start": 65,
+        "end": 82,
+        "text": "In the place of the Aboriginals, how might you have reacted to the French?",
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1308925278535",
+        "target-object": "wordriver-container"
+      }
+    }, {
+      "webpage": {
+        "start": 77.75,
+        "end": 90.75,
+        "src": "http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=a1ARTA00056414",
+        "target": "webpage-container",
+        "id": "webpage1308925210311"
+      }
+    }, {
+      "image": {
+        "start": 86.75,
+        "end": 102,
+        "href": "http://www.cbc.ca/gfx/images/news/photos/2011/04/06/li-voyageur-canoe-620-lac.jpg",
+        "src": "http://www.cbc.ca/gfx/images/news/photos/2011/04/06/li-voyageur-canoe-620-lac.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308925213882"
+      }
+    }, {
+      "wordriver": {
+        "start": 97,
+        "end": 111.25,
+        "text": "How do you think of the concept of 'absolute ownership'? Do you think that it is a good thing or not? Why?",
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1308925480582",
+        "target-object": "wordriver-container"
+      }
+    }, {
+      "wordriver": {
+        "start": 106.25,
+        "end": 110.25,
+        "target": "wordriver-container",
+        "word": {},
+        "id": "wordriver1308925800286"
+      }
+    }, {
+      "webpage": {
+        "start": 106.75,
+        "end": 123.5,
+        "src": "http://www.apex.net.au/~mhumphry/aborigin.html",
+        "target": "webpage-container",
+        "id": "webpage1308925736736"
+      }
+    }]
+  },
+  "targets": {},
+  "tracks": {
+    "trackLiner0": ["image1308924933419", "webpage1308924933526", "webpage1308925093514", "webpage1308925736736"],
+    "trackLiner1": ["wikipedia1308924933453", "webpage1308925038660", "image1308925213882"],
+    "trackLiner2": ["image1308924933672", "footnote1308924968397", "webpage1308925210311"],
+    "trackLiner3": ["wordriver1308925278535", "wordriver1308925480582"],
+    "trackLiner4": ["wordriver1308925800286"]
+  }
+} {
+  "title": "History of Aboriginals ",
+  "description": "",
+  "remote": "http://www.youtube.com/watch?v=lh_ZVwsvYl4",
+  "data": {
+    "data": [{
+      "image": {
         "start": 20,
         "end": 25,
         "href": "http://canadachannel.ca/common/thumb/Champlainbrule.jpg/660px-Champlainbrule.jpg",

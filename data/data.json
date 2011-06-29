@@ -1,232 +1,295 @@
 {
-    "title": "biodiversity 2",
-    "description": "Dale Rafa Brittney and Matthew",
-    "remote": "http://www.youtube.com/watch?v=zR-Ms2LTV0Y",
-    "data": {
-        "data": [{
-            "wikipedia": {
-                "end": 10,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/BBC_Canada",
-                "title": "bbc",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308318190714"
-            }
-        }, {
-            "webpage": {
-                "type": "webpage",
-                "start": 10,
-                "end": 20,
-                "src": "http://www.nrdc.org/globalwarming/qthinice.asp",
-                "target": "webpage-container",
-                "id": "webpage1308318183839"
-            }
-        }, {
-            "webpage": {
-                "start": 19.75,
-                "end": 24.75,
-                "src": "http://www.lazybearlodge.com/lazy-bear-lodge/polar-bear-jail.php",
-                "target": "webpage-container",
-                "id": "webpage1308318211920"
-            }
-        }, {
-            "image": {
-                "start": 30,
-                "end": 37,
-                "href": "http://www.sustainabilityninja.com/wp-content/uploads/2010/01/arctic_ocean.jpg",
-                "src": "http://www.sustainabilityninja.com/wp-content/uploads/2010/01/arctic_ocean.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318232987"
-            }
-        }, {
-            "subtitle": {
-                "type": "subtitle",
-                "start": 32,
-                "end": 35,
-                "text": "I used to look forward to this time of year, but now it's too much.",
-                "target": "subtitle-container",
-                "container": {},
-                "accessibility": {},
-                "display": "inline",
-                "id": "subtitle1308318183951"
-            }
-        }, {
-            "footnote": {
-                "start": 46,
-                "end": 63.75,
-                "text": "subtopic, subtitle,  Winter (January) temperatures at the North Pole can range from about −43 °C (−45 °F) to −26 °C (−15 °F), perhaps averaging around −34 °C (−29 °F). Summer temperatures (June, July and August) average around the freezing point (0 °C (32 °F)). The highest temperature yet recorded is 5 °C (41 °F), much warmer than the South Pole's record high of only −13.5 °C (8 °F).",
-                "target": "footnote-container",
-                "id": "footnote1308318262110"
-            }
-        }, {
-            "subtitle": {
-                "type": "subtitle",
-                "start": 51,
-                "end": 57,
-                "text": "1,200 bears are held in holding facilities",
-                "target": "subtitle-container",
-                "container": {},
-                "accessibility": {},
-                "display": "inline",
-                "id": "subtitle1308318184037"
-            }
-        }, {
-            "subtitle": {
-                "type": "subtitle",
-                "start": 55,
-                "end": 60,
-                "text": "30 bears are gone each year by the look of it.",
-                "target": "subtitle-container",
-                "container": {},
-                "accessibility": {},
-                "display": "inline",
-                "id": "subtitle1308318184064"
-            }
-        }, {
-            "subtitle": {
-                "type": "subtitle",
-                "start": 66,
-                "end": 74,
-                "text": "45% of the ice has melted since 1950",
-                "target": "subtitle-container",
-                "container": {},
-                "accessibility": {},
-                "display": "inline",
-                "id": "subtitle1308318184083"
-            }
-        }, {
-            "webpage": {
-                "type": "webpage",
-                "start": 74,
-                "end": 82,
-                "src": " http://www.winnipegfreepress.com/breakingnews/Churchills-polar-bear-holding-facility-upgraded-102351259.html",
-                "target": "webpage-container",
-                "id": "webpage1308318184111"
-            }
-        }, {
-            "image": {
-                "start": 83,
-                "end": 90,
-                "href": "http://www.customcalm.com/wp-content/uploads/2011/02/iceberg.jpg",
-                "src": "http://www.customcalm.com/wp-content/uploads/2011/02/iceberg.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318286434"
-            }
-        }, {
-            "image": {
-                "type": "image",
-                "start": 88,
-                "end": 95,
-                "href": "http://www.gearthblog.com/images/images1107/seaice.jpg",
-                "src": "http://www.gearthblog.com/images/images1107/seaice.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318184197"
-            }
-        }, {
-            "webpage": {
-                "type": "webpage",
-                "start": 89,
-                "end": 100,
-                "src": "http://library.thinkquest.org/CR0215471/global_warming.htm",
-                "target": "webpage-container",
-                "id": "webpage1308318184222"
-            }
-        }, {
-            "image": {
-                "type": "image",
-                "start": 100,
-                "end": 106,
-                "href": "http://www.kalyansuman.com/uploaded_images/arctic_img1-702260.jpg",
-                "src": "http://www.kalyansuman.com/uploaded_images/arctic_img1-702260.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318184251"
-            }
-        }, {
-            "webpage": {
-                "type": "webpage",
-                "start": 106,
-                "end": 116,
-                "src": "http://www.seaworld.org/infobooks/polarbears/home.html",
-                "target": "webpage-container",
-                "id": "webpage1308318184284"
-            }
-        }, {
-            "image": {
-                "type": "image",
-                "start": 116,
-                "end": 120,
-                "href": "http://pen.eiu.edu/~hrodriguez3/polarbear.jpg",
-                "src": "http://pen.eiu.edu/~hrodriguez3/polarbear.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318184314"
-            }
-        }, {
-            "webpage": {
-                "type": "webpage",
-                "start": 120,
-                "end": 125,
-                "src": "http://mind.ofdan.ca/?p=1074 ",
-                "target": "webpage-container",
-                "id": "webpage1308318184347"
-            }
-        }, {
-            "webpage": {
-                "start": 125,
-                "end": 130.75,
-                "src": "http://archive.greenpeace.org/climate/arctic99/reports/bearfact.html",
-                "target": "webpage-container",
-                "id": "webpage1308318339822"
-            }
-        }, {
-            "wikipedia": {
-                "type": "wikipedia",
-                "start": 131,
-                "end": 137,
-                "lang": "en",
-                "src": "http://en.wikipedia.org/wiki/Global_warming",
-                "title": "global warming",
-                "numberofwords": 200,
-                "target": "wikipedia-container",
-                "id": "wikipedia1308318184400"
-            }
-        }, {
-            "image": {
-                "type": "image",
-                "start": 137,
-                "end": 145,
-                "href": "http://www.thoughtleader.co.za/wp-content/uploads/2008/02/polarbear-population.jpg",
-                "src": "http://www.thoughtleader.co.za/wp-content/uploads/2008/02/polarbear-population.jpg",
-                "target": "image-container",
-                "link": {},
-                "id": "image1308318184430"
-            }
-        }, {
-            "webpage": {
-                "type": "webpage",
-                "start": 145,
-                "end": 149,
-                "src": "http://www.bearplanet.org/global-warming-polar-bears.shtml",
-                "target": "webpage-container",
-                "id": "webpage1308318184465"
-            }
-        }]
-    },
-    "targets": {},
-    "tracks": {
-        "trackLiner0": ["wikipedia1308318190714"],
-        "trackLiner1": ["webpage1308318183839", "webpage1308318184222"],
-        "trackLiner2": ["webpage1308318184111", "webpage1308318211920"],
-        "trackLiner3": ["subtitle1308318183951", "image1308318184251", "webpage1308318184347", "image1308318286434"],
-        "trackLiner4": ["image1308318184197", "webpage1308318184284", "image1308318184430", "footnote1308318262110", "webpage1308318339822"],
-        "trackLiner5": ["subtitle1308318184083", "image1308318184314", "wikipedia1308318184400", "webpage1308318184465"],
-        "trackLiner6": ["image1308318183976", "subtitle1308318184037"],
-        "trackLiner7": ["subtitle1308318184064"],
-        "trackLiner8": ["image1308318232987"]
-    }
+  "title": "biodiversity 2",
+  "description": "Dale Rafa Brittney and Matthew",
+  "remote": "http://www.youtube.com/watch?v=zR-Ms2LTV0Y",
+  "data": {
+    "data": [{
+      "wikipedia": {
+        "end": 10,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/BBC_Canada",
+        "title": "bbc",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308318190714"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 10,
+        "end": 20,
+        "src": "http://www.nrdc.org/globalwarming/qthinice.asp",
+        "target": "webpage-container",
+        "id": "webpage1308318183839"
+      }
+    }, {
+      "webpage": {
+        "start": 19.75,
+        "end": 24.75,
+        "src": "http://www.lazybearlodge.com/lazy-bear-lodge/polar-bear-jail.php",
+        "target": "webpage-container",
+        "id": "webpage1308318211920"
+      }
+    }, {
+      "footnote": {
+        "start": 29,
+        "end": 32,
+        "text": "Explain the metaphor “the polar pressure cooker is reaching bursting point”",
+        "target": "footnote-container",
+        "id": "footnote1308335454194"
+      }
+    }, {
+      "image": {
+        "start": 30,
+        "end": 37,
+        "href": "http://images.google.com/imgres?imgurl=http://www.sustainabilityninja.com/wp-content/uploads/2010/01/arctic_ocean.jpg&imgrefurl=http://www.sustainabilityninja.com/eco-news/the-arctic-ocean-is-awakening-82028/&usg=__csCbI4EQfjgYO8V_svSBaOZ88IM=&h=480&w=640&sz=89&hl=en&start=0&zoom=1&tbnid=2rkFpGjnXk7otM:&tbnh=151&tbnw=196&ei=51PyTb2tCobUgAfpqLSUDQ&prev=/search%3Fq%3Dmelting%2Barctic%26hl%3Den%26biw%3D1024%26bih%3D497%26gbv%3D2%26tbm%3Disch&itbs=1&iact=hc&vpx=137&vpy=196&dur=1036&hovh=194&hovw=259&tx=92&ty=122&page=1&ndsp=8&ved=1t:429,r:4,s:0&biw=1024&bih=497      ",
+        "src": "http://images.google.com/imgres?imgurl=http://www.sustainabilityninja.com/wp-content/uploads/2010/01/arctic_ocean.jpg&imgrefurl=http://www.sustainabilityninja.com/eco-news/the-arctic-ocean-is-awakening-82028/&usg=__csCbI4EQfjgYO8V_svSBaOZ88IM=&h=480&w=640&sz=89&hl=en&start=0&zoom=1&tbnid=2rkFpGjnXk7otM:&tbnh=151&tbnw=196&ei=51PyTb2tCobUgAfpqLSUDQ&prev=/search%3Fq%3Dmelting%2Barctic%26hl%3Den%26biw%3D1024%26bih%3D497%26gbv%3D2%26tbm%3Disch&itbs=1&iact=hc&vpx=137&vpy=196&dur=1036&hovh=194&hovw=259&tx=92&ty=122&page=1&ndsp=8&ved=1t:429,r:4,s:0&biw=1024&bih=497      ",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308318232987"
+      }
+    }, {
+      "subtitle": {
+        "type": "subtitle",
+        "start": 32,
+        "end": 35,
+        "text": """I used to look forward to this time of year, but now it's too much.""",
+        "target": "subtitle-container",
+        "container": {},
+        "accessibility": {},
+        "display": "inline",
+        "id": "subtitle1308318183951"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 35.5,
+        "end": 39.5,
+        "target": "image-container",
+        "link": {},
+        "id": "image1308318183976"
+      }
+    }, {
+      "footnote": {
+        "start": 44,
+        "end": 48,
+        "text": "Why do you think no bears are being destroyed",
+        "target": "footnote-container",
+        "id": "footnote1308335522469"
+      }
+    }, {
+      "footnote": {
+        "start": 46,
+        "end": 63.75,
+        "text": "subtopic, subtitle,  Winter (January) temperatures at the North Pole can range from about −43 °C (−45 °F) to −26 °C (−15 °F), perhaps averaging around −34 °C (−29 °F). Summer temperatures (June, July and August) average around the freezing point (0 °C (32 °F)). The highest temperature yet recorded is 5 °C (41 °F), much warmer than the South Pole's record high of only −13.5 °C (8 °F).",
+        "target": "footnote-container",
+        "id": "footnote1308318262110"
+      }
+    }, {
+      "subtitle": {
+        "type": "subtitle",
+        "start": 51,
+        "end": 57,
+        "text": "1,200 bears are held in holding facilities",
+        "target": "subtitle-container",
+        "container": {},
+        "accessibility": {},
+        "display": "inline",
+        "id": "subtitle1308318184037"
+      }
+    }, {
+      "subtitle": {
+        "type": "subtitle",
+        "start": 55,
+        "end": 60,
+        "text": """30 bears are gone each year by the look of it.""",
+        "target": "subtitle-container",
+        "container": {},
+        "accessibility": {},
+        "display": "inline",
+        "id": "subtitle1308318184064"
+      }
+    }, {
+      "subtitle": {
+        "start": 60,
+        "end": 68,
+        "text": "45% of the ice has melted since 1950",
+        "target": "subtitle-container",
+        "container": {},
+        "id": "subtitle1308335998115",
+        "accessibility": {},
+        "display": "inline"
+      }
+    }, {
+      "footnote": {
+        "start": 68,
+        "end": 76,
+        "text": "Why do you think these people have to move the polar bears?",
+        "target": "footnote-container",
+        "id": "footnote1308335583292"
+      }
+    }, {
+      "footnote": {
+        "start": 68,
+        "end": 72,
+        "text": "Do you think that is because of global warming or something else?",
+        "target": "footnote-container",
+        "id": "footnote1308335942797"
+      }
+    }, {
+      "footnote": {
+        "start": 69.5,
+        "end": 73.5,
+        "target": "footnote-container",
+        "id": "footnote1308335842729"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 74,
+        "end": 82,
+        "src": " http://www.winnipegfreepress.com/breakingnews/Churchills-polar-bear-holding-facility-upgraded-102351259.html",
+        "target": "webpage-container",
+        "id": "webpage1308318184111"
+      }
+    }, {
+      "footnote": {
+        "start": 74,
+        "end": 78,
+        "text": "what do holding facilities do to help the polar bears?",
+        "target": "footnote-container",
+        "id": "footnote1308336041315"
+      }
+    }, {
+      "image": {
+        "start": 83,
+        "end": 90,
+        "href": "http://www.customcalm.com/wp-content/uploads/2011/02/iceberg.jpg",
+        "src": "http://www.customcalm.com/wp-content/uploads/2011/02/iceberg.jpg",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308318286434"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 88,
+        "end": 95,
+        "href": "http://www.google.ca/imgres?imgurl=http://www.gearthblog.com/images/images1107/seaice.jpg&imgrefurl=http://www.gearthblog.com/blog/archives/2008/09/more_detailed_arctic_ice_melting_an.html&usg=__jjNYw8HlkHQPviLVJ2mxSYCmeBs=&h=374&w=600&sz=57&hl=en&start=0&zoom=1&tbnid=FV05J7ji5JBxCM:&tbnh=89&tbnw=142&ei=8uz4Ta-ZLs7ogAf5ga3xCw&prev=/search%3Fq%3Damount%2Bof%2Bice%2Bmelted%2Bin%2Barctic%255C%26um%3D1%26hl%3Den%26biw%3D1024%26bih%3D497%26tbm%3Disch&um=1&itbs=1&iact=hc&vpx=699&vpy=201&dur=3284&hovh=177&hovw=284&tx=235&ty=118&page=1&ndsp=17&ved=1t:429,r:10,s:0&biw=1024&bih=497 ",
+        "src": "http://www.google.ca/imgres?imgurl=http://www.gearthblog.com/images/images1107/seaice.jpg&imgrefurl=http://www.gearthblog.com/blog/archives/2008/09/more_detailed_arctic_ice_melting_an.html&usg=__jjNYw8HlkHQPviLVJ2mxSYCmeBs=&h=374&w=600&sz=57&hl=en&start=0&zoom=1&tbnid=FV05J7ji5JBxCM:&tbnh=89&tbnw=142&ei=8uz4Ta-ZLs7ogAf5ga3xCw&prev=/search%3Fq%3Damount%2Bof%2Bice%2Bmelted%2Bin%2Barctic%255C%26um%3D1%26hl%3Den%26biw%3D1024%26bih%3D497%26tbm%3Disch&um=1&itbs=1&iact=hc&vpx=699&vpy=201&dur=3284&hovh=177&hovw=284&tx=235&ty=118&page=1&ndsp=17&ved=1t:429,r:10,s:0&biw=1024&bih=497 ",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308318184197"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 89,
+        "end": 100,
+        "src": "http://library.thinkquest.org/CR0215471/global_warming.htm",
+        "target": "webpage-container",
+        "id": "webpage1308318184222"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 100,
+        "end": 106,
+        "href": "http://www.google.ca/imgres?imgurl=http://www.kalyansuman.com/uploaded_images/arctic_img1-702260.jpg&imgrefurl=http://kalyansuman.com/2007/07/arctic-tale-movie-free-screening.html&usg=__7wBMGqq83m70YLElzwJnZLobcKE=&h=378&w=310&sz=25&hl=en&start=0&zoom=1&tbnid=NE7ExRrBRJmv0M:&tbnh=151&tbnw=120&ei=pEL6TbC8NYGCgAeU8Jz1CQ&prev=/search%3Fq%3Darctic%26um%3D1%26hl%3Den%26biw%3D1024%26bih%3D497%26tbm%3Disch&um=1&itbs=1&iact=hc&vpx=630&vpy=150&dur=325&hovh=151&hovw=120&tx=125&ty=237&page=1&ndsp=10&ved=1t:429,r:8,s:0&biw=1024&bih=497",
+        "src": "http://www.google.ca/imgres?imgurl=http://www.kalyansuman.com/uploaded_images/arctic_img1-702260.jpg&imgrefurl=http://kalyansuman.com/2007/07/arctic-tale-movie-free-screening.html&usg=__7wBMGqq83m70YLElzwJnZLobcKE=&h=378&w=310&sz=25&hl=en&start=0&zoom=1&tbnid=NE7ExRrBRJmv0M:&tbnh=151&tbnw=120&ei=pEL6TbC8NYGCgAeU8Jz1CQ&prev=/search%3Fq%3Darctic%26um%3D1%26hl%3Den%26biw%3D1024%26bih%3D497%26tbm%3Disch&um=1&itbs=1&iact=hc&vpx=630&vpy=150&dur=325&hovh=151&hovw=120&tx=125&ty=237&page=1&ndsp=10&ved=1t:429,r:8,s:0&biw=1024&bih=497",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308318184251"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 106,
+        "end": 116,
+        "src": "http://www.seaworld.org/infobooks/polarbears/home.html ",
+        "target": "webpage-container",
+        "id": "webpage1308318184284"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 116,
+        "end": 120,
+        "href": "http://www.google.ca/imgres?imgurl=http://pen.eiu.edu/~hrodriguez3/polarbear.jpg&imgrefurl=http://pen.eiu.edu/~hrodriguez3/curriculum.html&usg=__yHh93yle0m6s1wtFiI2tMdbW5lw=&h=598&w=800&sz=116&hl=en&start=0&zoom=1&tbnid=ZrMBiotxiytmYM:&tbnh=142&tbnw=216&ei=JLD2Tb2gDML00gGomP3wDA&prev=/search%3Fq%3Dpolar%2Bbears%2Bglobal%2Bwarming%26hl%3Den%26safe%3Doff%26biw%3D1657%26bih%3D772%26gbv%3D2%26tbm%3Disch&itbs=1&iact=rc&dur=219&page=1&ndsp=33&ved=1t:429,r:0,s:0&tx=151&ty=117",
+        "src": "http://www.google.ca/imgres?imgurl=http://pen.eiu.edu/~hrodriguez3/polarbear.jpg&imgrefurl=http://pen.eiu.edu/~hrodriguez3/curriculum.html&usg=__yHh93yle0m6s1wtFiI2tMdbW5lw=&h=598&w=800&sz=116&hl=en&start=0&zoom=1&tbnid=ZrMBiotxiytmYM:&tbnh=142&tbnw=216&ei=JLD2Tb2gDML00gGomP3wDA&prev=/search%3Fq%3Dpolar%2Bbears%2Bglobal%2Bwarming%26hl%3Den%26safe%3Doff%26biw%3D1657%26bih%3D772%26gbv%3D2%26tbm%3Disch&itbs=1&iact=rc&dur=219&page=1&ndsp=33&ved=1t:429,r:0,s:0&tx=151&ty=117",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308318184314"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 120,
+        "end": 125,
+        "src": "http://mind.ofdan.ca/?p=1074 ",
+        "target": "webpage-container",
+        "id": "webpage1308318184347"
+      }
+    }, {
+      "webpage": {
+        "start": 125,
+        "end": 130.75,
+        "src": "http://archive.greenpeace.org/climate/arctic99/reports/bearfact.html",
+        "target": "webpage-container",
+        "id": "webpage1308318339822"
+      }
+    }, {
+      "wikipedia": {
+        "type": "wikipedia",
+        "start": 131,
+        "end": 137,
+        "lang": "en",
+        "src": "http://en.wikipedia.org/wiki/Global_warming",
+        "title": "global warming",
+        "numberofwords": 200,
+        "target": "wikipedia-container",
+        "id": "wikipedia1308318184400"
+      }
+    }, {
+      "image": {
+        "type": "image",
+        "start": 137,
+        "end": 145,
+        "href": "http://www.google.ca/imgres?imgurl=http://www.thoughtleader.co.za/wp-content/uploads/2008/02/polarbear-population.jpg&imgrefurl=http://www.thoughtleader.co.za/thespike/2008/02/06/the-polar-bear-plot/&h=306&w=309&sz=22&tbnid=aI3p93RKs0VHdM:&tbnh=116&tbnw=117&prev=/search%3Fq%3Dpolar%2Bbear%2Bpopulation%2Bchart%26tbm%3Disch%26tbo%3Du&zoom=1&q=polar+bear+population+chart&hl=en&usg=__-aJppy-SFQseZVAEIOGHWQgZHLM=&sa=X&ei=SLP2TYD8FoHo0QGdjp2KCw&ved=0CC4Q9QEwAA",
+        "src": "http://www.google.ca/imgres?imgurl=http://www.thoughtleader.co.za/wp-content/uploads/2008/02/polarbear-population.jpg&imgrefurl=http://www.thoughtleader.co.za/thespike/2008/02/06/the-polar-bear-plot/&h=306&w=309&sz=22&tbnid=aI3p93RKs0VHdM:&tbnh=116&tbnw=117&prev=/search%3Fq%3Dpolar%2Bbear%2Bpopulation%2Bchart%26tbm%3Disch%26tbo%3Du&zoom=1&q=polar+bear+population+chart&hl=en&usg=__-aJppy-SFQseZVAEIOGHWQgZHLM=&sa=X&ei=SLP2TYD8FoHo0QGdjp2KCw&ved=0CC4Q9QEwAA",
+        "target": "image-container",
+        "link": {},
+        "id": "image1308318184430"
+      }
+    }, {
+      "footnote": {
+        "start": 140,
+        "end": 149,
+        "text": "How can we stop Global warming and what can we do to help the polar bears?",
+        "target": "footnote-container",
+        "id": "footnote1308336112213"
+      }
+    }, {
+      "webpage": {
+        "type": "webpage",
+        "start": 145,
+        "end": 149,
+        "src": "http://www.bearplanet.org/global-warming-polar-bears.shtml",
+        "target": "webpage-container",
+        "id": "webpage1308318184465"
+      }
+    }]
+  },
+  "targets": {},
+  "tracks": {
+    "trackLiner0": ["wikipedia1308318190714", "footnote1308336112213"],
+    "trackLiner1": ["webpage1308318183839", "webpage1308318184222", "footnote1308335942797"],
+    "trackLiner2": ["webpage1308318184111", "webpage1308318211920", "footnote1308335522469"],
+    "trackLiner3": ["subtitle1308318183951", "image1308318184251", "webpage1308318184347", "image1308318286434", "footnote1308335583292"],
+    "trackLiner4": ["image1308318184197", "webpage1308318184284", "image1308318184430", "footnote1308318262110", "webpage1308318339822", "footnote1308335454194", "footnote1308336041315"],
+    "trackLiner5": ["image1308318184314", "wikipedia1308318184400", "webpage1308318184465", "footnote1308335842729"],
+    "trackLiner6": ["image1308318183976", "subtitle1308318184037", "subtitle1308335998115"],
+    "trackLiner7": ["subtitle1308318184064"],
+    "trackLiner8": ["image1308318232987"]
+  }
 }
